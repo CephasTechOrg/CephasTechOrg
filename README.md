@@ -86,20 +86,23 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 - Predictive analytics
 
 ---
-
 ## 📜 Certificates & Achievements
 
-### **🏆 American Math Olympiad (Honorable Mention)**
-- **Global Ranking:** 10th | **National Ranking:** 3rd
-- **School Ranking:** 1st out of 1,700 students
-- **Global Percentile:** Top 1% out of 30,000 participants worldwide
-- [View Certificate](https://drive.google.com/file/d/1N1vvU0kK7MK4AzPRUMq7d_ceMwkMOcyu/view)
+### 🏆 American Math Olympiad (Honorable Mention)
+- Global Ranking: 10th | National Ranking: 3rd
+- School Ranking: 1st out of 1,700 students
+- Global Percentile: Top 1% out of 30,000 participants worldwide  
 
-### **🚀 NASA Space App Challenge**
-- **Award:** Innovative Solution using NASA Open Data
-- Developed solutions leveraging NASA datasets to address global challenges
-- Recognized for technical creativity and applying space technology to real-world issues
-- [View Certificate](https://drive.google.com/file/d/1KbIn7jvZMXeOjLGZglVOENCeJ0ASpL7k/view)
+![American Math Olympiad Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png)  
+[View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png)
+
+### 🚀 NASA Space App Challenge
+- Award: Innovative Solution using NASA Open Data  
+- Recognized for technical creativity and applying space technology to real-world issues  
+
+![NASA Space App Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)  
+[View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)
+
 
 ---
 
