@@ -93,14 +93,22 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 - School Ranking: 1st out of 1,700 students
 - Global Percentile: Top 1% out of 30,000 participants worldwide  
 
-![American Math Olympiad Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="500" alt="American Math Olympiad Certificate">
+</p>
+
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png)
+
+---
 
 ### 🚀 NASA Space App Challenge
 - Award: Innovative Solution using NASA Open Data  
 - Recognized for technical creativity and applying space technology to real-world issues  
 
-![NASA Space App Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png" width="500" alt="NASA Space App Certificate">
+</p>
+
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)
 
 
