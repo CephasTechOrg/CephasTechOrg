@@ -88,20 +88,6 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&dates=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="90%"/>
-</p>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
