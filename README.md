@@ -100,75 +100,109 @@
 
 ---
 
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
+<div align="center">
 
-  <h1>👨‍💻 Cephas Osei Bonsu</h1>
-  <h3>Software Developer & AI/ML Engineer</h3>
-  <p><b>🌍 Location:</b> Ghana, Africa</p>
-  <p><b>💡 Passion:</b> Creating intelligent solutions that solve real-world problems</p>
-  <p><b>🎯 Current Focus:</b> Advanced Machine Learning & AI Systems</p>
+# 👨‍💻 About Me
 
-  <hr style="width:60%; border:1px solid #ccc;">
-
-  <h2>🛠 Technical Skills</h2>
-  <p>
-    <img src="https://img.shields.io/badge/AI%2FML-Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge&logo=opencv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge&logo=spacy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Predictive%20Analytics-purple?style=for-the-badge"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Full%20Stack-Web%20Dev-red?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mobile-Apps-yellow?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/API-Design-lightblue?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microservices-gray?style=for-the-badge"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NoSQL-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data-Warehousing-purple?style=for-the-badge"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-lightblue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  </p>
-
-  <hr style="width:60%; border:1px solid #ccc;">
-
-  <h2>🎓 Education Goals</h2>
-  <ul style="list-style:none; padding:0;">
-    <li>📘 Advanced Machine Learning Specialization</li>
-    <li>🤖 Deep Learning and Neural Networks</li>
-    <li>⚙️ MLOps and Model Deployment</li>
-    <li>🔬 AI Research and Development</li>
-  </ul>
-
-  <hr style="width:60%; border:1px solid #ccc;">
-
-  <h2>📬 Contact Info</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-    </a>
-    <a href="mailto:cephas@tech.org">
-      <img src="https://img.shields.io/badge/Email-cephas%40tech.org-red?style=for-the-badge&logo=gmail"/>
-    </a>
-    <a href="https://github.com/CephasTechOrg">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
-  <p>📱 WhatsApp: <b>+233551560593</b></p>
-
-  <hr style="width:60%; border:1px solid #ccc;">
-
-  <h2>🚀 Current Projects</h2>
-  <ul style="list-style:none; padding:0;">
-    <li>📊 Building AI-powered business intelligence tools</li>
-    <li>🔮 Developing machine learning models for predictive analytics</li>
-    <li>📚 Creating educational content for AI/ML enthusiasts</li>
-  </ul>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00D1B2&center=true&vCenter=true&width=500&lines=Software+Developer;AI/ML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 </div>
 
+<br>
+
+## 🧑‍💻 Personal Information
+
+| | |
+|:---:|:---|
+| **Name** | Cephas Osei Bonsu |
+| **Title** | Software Developer & AI/ML Engineer |
+| **Location** | 🇬🇭 Ghana, Africa |
+| **Passion** | Creating intelligent solutions that solve real-world problems |
+| **Focus** | Advanced Machine Learning & AI Systems |
+
+<br>
+
+## 🛠️ Technical Skills
+
+### **AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- **Deep Learning** • **Computer Vision** • **NLP** • **Predictive Analytics**
+
+### **Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **Full-Stack Web** • **Mobile Apps** • **API Design** • **Microservices**
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+- **SQL/NoSQL** • **Vector Databases** • **Data Warehousing** • **CI/CD Pipelines**
+
+<br>
+
+## 📚 Education Goals
+
+> 🎯 **Advancing my expertise in cutting-edge technologies**
+
+- 🔬 **Advanced Machine Learning Specialization**
+- 🧠 **Deep Learning and Neural Networks**
+- ⚙️ **MLOps and Model Deployment**
+- 🔍 **AI Research and Development**
+
+<br>
+
+## 🚀 Current Projects
+
+| Project | Description | Status |
+|:--------|:------------|:-------|
+| **AI Business Intelligence** | Building AI-powered tools for business analytics | 🔥 **Active** |
+| **Predictive Analytics ML** | Developing ML models for data prediction | 🚧 **In Progress** |
+| **AI Education Platform** | Creating content for AI/ML enthusiasts | 📚 **Planning** |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=radical)
+
+</div>
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-osei-bonsu-911731326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cephas@tech.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233551560593)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⚡ **Fun Fact:** 
+*"I believe AI will revolutionize how we solve Africa's unique challenges!"*
+
+<img src="https://komarev.com/ghpvc/?username=CephasTechOrg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
