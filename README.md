@@ -1,9 +1,10 @@
-<!-- Goals Section -->
-🎯 2025 Goals
+🌐 Connect With Me
 <div align="center">
-Goal	Status	Target Date
-Ship full-stack SaaS (Next.js + Go + AWS)	🔄 In Progress	Q2 2025
-Contribute to 3+ major OSS libraries	⏳ Planning	Q3 2025
-Learn Rust & build backend service	📚 Learning	Q4 2025
-Mentor 10+ newcomers in web dev	✅ Completed 3/10	Q4 2025
+https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 </div>
