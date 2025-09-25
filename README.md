@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Dynamic Header Banner -->
 <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/header.png?raw=true" alt="Cephas Osei Bonsu - Software Developer & AI/ML Engineer" width="100%"/>
 
@@ -9,18 +8,91 @@
   Hello, I'm <strong>Cephas Osei Bonsu</strong>
 </h1>
 
-<h3 align="center">💻 Software Developer | 🤖 AI/ML Engineer | 🚀 Tech Innovator</h3>
+<h3 align="center">💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 Health Tech Innovator</h3>
 
-<!-- Real-time GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="center">
   
-[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)](https://github.com/CephasTechOrg)
+[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)](https://github.com/CephasTechOrg)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=10)](https://github.com/CephasTechOrg)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&dates=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=6)](https://github.com/CephasTechOrg)
 
 </div>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate software developer from Ghana with a strong focus on AI and machine learning. Currently building intelligent systems that address real-world challenges in healthcare and beyond. My mission is to leverage technology to empower communities and drive meaningful innovation.
+
+## 🎯 Career Vision
+
+I aim to become a software engineer specializing in AI and machine learning, building intelligent systems that:
+- Improve healthcare access and outcomes
+- Address global security challenges
+- Reduce economic inequality
+- Combat environmental decline
+- Create opportunities for underserved communities
+
+---
+
+## 🚀 Current Project: Vitalgo
+
+**Vitalgo** is a health technology company I'm building that features:
+- **Smart wristwatch** for real-time health data tracking
+- **Advanced backend** for data processing and analysis
+- **Real-time dashboards** for patients and doctors
+- **Health monitoring** and predictive analytics
+
+---
+
+## 🛠️ Technical Skills
+
+### **💻 Programming & Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **🌐 Frontend Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **🗄️ Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### **🤖 AI/ML Focus**
+*Currently learning and building projects in:*
+- Machine Learning fundamentals
+- AI system design
+- Data analysis and modeling
+- Predictive analytics
+
+---
+
+## 📜 Certificates & Achievements
+
+### **🏆 American Math Olympiad (Honorable Mention)**
+- **Global Ranking:** 10th | **National Ranking:** 3rd
+- **School Ranking:** 1st out of 1,700 students
+- **Global Percentile:** Top 1% out of 30,000 participants worldwide
+- [View Certificate](https://drive.google.com/file/d/1N1vvU0kK7MK4AzPRUMq7d_ceMwkMOcyu/view)
+
+### **🚀 NASA Space App Challenge**
+- **Award:** Innovative Solution using NASA Open Data
+- Developed solutions leveraging NASA datasets to address global challenges
+- Recognized for technical creativity and applying space technology to real-world issues
+- [View Certificate](https://drive.google.com/file/d/1KbIn7jvZMXeOjLGZglVOENCeJ0ASpL7k/view)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&dates=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
 <p align="center">
@@ -31,152 +103,22 @@
 
 ---
 
-## 🛠️ Technical Stack
-
-### **🤖 AI/ML & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **💻 Software Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### **🌐 Web Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **☁️ Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **🗄️ Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🚀 Featured Projects
+## 📫 Connect With Me
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **AI-Powered Analytics Platform** | Machine learning platform for data analysis | Python, TensorFlow, React, FastAPI | 🔥 Active |
-| **Smart Code Assistant** | AI-driven code completion and optimization | TypeScript, Python, OpenAI API | 🚧 Developing |
-| **Predictive Maintenance System** | ML model for equipment failure prediction | PyTorch, Scikit-learn, Django | ✅ Completed |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-osei-bonsu-911731326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cephas@tech.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
+
+**📱 WhatsApp:** +233551560593
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<!-- Detailed Metrics -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CephasTechOrg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" alt="WakaTime Stats" />
-
-<!-- Trophy Case -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-</div>
-
----
-
-<div align="center" style="font-family:Arial, sans-serif; padding:20px;">
-
-  <!-- Header -->
-  <h1 style="margin-bottom:10px;">👨‍💻 Cephas Osei Bonsu</h1>
-  <h3 style="color:gray; margin-top:0;">Software Developer & AI/ML Engineer</h3>
-  <p><b>🌍 Ghana, Africa</b></p>
-  <p><i>💡 Creating intelligent solutions that solve real-world problems</i></p>
-  <p><b>🎯 Current Focus:</b> Advanced Machine Learning & AI Systems</p>
-
-  <br>
-  <!-- Skills Section -->
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:80%; max-width:800px; margin:auto; background:#f9f9f9;">
-    <h2>🛠 Technical Skills</h2>
-    <p>
-      <img src="https://img.shields.io/badge/AI%2FML-Deep%20Learning-blue?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-green?style=flat-square&logo=spacy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Predictive%20Analytics-purple?style=flat-square"/>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Full%20Stack-Web%20Dev-red?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mobile-Apps-yellow?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/API-Design-lightblue?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Microservices-gray?style=flat-square"/>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/SQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NoSQL-orange?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Data-Warehousing-purple?style=flat-square"/>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-lightblue?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-green?style=flat-square&logo=githubactions&logoColor=white"/>
-    </p>
-  </div>
-
-  <br>
-  <!-- Education Goals -->
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:80%; max-width:800px; margin:auto; background:#fff;">
-    <h2>🎓 Education Goals</h2>
-    <ul style="list-style:none; padding:0; text-align:left; display:inline-block;">
-      <li>📘 Advanced Machine Learning Specialization</li>
-      <li>🤖 Deep Learning and Neural Networks</li>
-      <li>⚙️ MLOps and Model Deployment</li>
-      <li>🔬 AI Research and Development</li>
-    </ul>
-  </div>
-
-  <br>
-  <!-- Contact Info -->
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:80%; max-width:800px; margin:auto; background:#f9f9f9;">
-    <h2>📬 Contact Info</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-      </a>
-      <a href="mailto:cephas@tech.org">
-        <img src="https://img.shields.io/badge/Email-cephas%40tech.org-red?style=for-the-badge&logo=gmail"/>
-      </a>
-      <a href="https://github.com/CephasTechOrg">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-      </a>
-    </p>
-    <p>📱 WhatsApp: <b>+233551560593</b></p>
-  </div>
-
-  <br>
-  <!-- Projects -->
-  <div style="border:1px solid #ddd; border-radius:12px; padding:15px; width:80%; max-width:800px; margin:auto; background:#fff;">
-    <h2>🚀 Current Projects</h2>
-    <ul style="list-style:none; padding:0; text-align:left; display:inline-block;">
-      <li>📊 Building AI-powered business intelligence tools</li>
-      <li>🔮 Developing machine learning models for predictive analytics</li>
-      <li>📚 Creating educational content for AI/ML enthusiasts</li>
-    </ul>
-  </div>
+  
+*"Technology is best when it brings people together and solves real problems."*
 
 </div>
