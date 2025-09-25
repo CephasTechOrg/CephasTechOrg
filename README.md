@@ -100,47 +100,75 @@
 
 ---
 
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
+  <h1>👨‍💻 Cephas Osei Bonsu</h1>
+  <h3>Software Developer & AI/ML Engineer</h3>
+  <p><b>🌍 Location:</b> Ghana, Africa</p>
+  <p><b>💡 Passion:</b> Creating intelligent solutions that solve real-world problems</p>
+  <p><b>🎯 Current Focus:</b> Advanced Machine Learning & AI Systems</p>
 
-<div align="left">
+  <hr style="width:60%; border:1px solid #ccc;">
 
-  <h2>👨‍💻 About Me</h2>
-
-  <p><b>Name:</b> Cephas Osei Bonsu</p>
-  <p><b>Title:</b> Software Developer & AI/ML Engineer</p>
-  <p><b>Location:</b> Ghana, Africa</p>
-  <p><b>Passion:</b> Creating intelligent solutions that solve real-world problems</p>
-  <p><b>Current Focus:</b> Advanced Machine Learning & AI Systems</p>
-
-  <h3>🛠 Technical Skills</h3>
-  <ul>
-    <li><b>AI/ML:</b> Deep Learning, Computer Vision, NLP, Predictive Analytics</li>
-    <li><b>Development:</b> Full-Stack Web, Mobile Apps, API Design, Microservices</li>
-    <li><b>Databases:</b> SQL, NoSQL, Vector Databases, Data Warehousing</li>
-    <li><b>Cloud/Ops:</b> AWS, Docker, Kubernetes, CI/CD Pipelines</li>
-  </ul>
-
-  <h3>🎓 Education Goals</h3>
-  <ul>
-    <li>Advanced Machine Learning Specialization</li>
-    <li>Deep Learning and Neural Networks</li>
-    <li>MLOps and Model Deployment</li>
-    <li>AI Research and Development</li>
-  </ul>
-
-  <h3>📬 Contact Info</h3>
+  <h2>🛠 Technical Skills</h2>
   <p>
-    <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/">LinkedIn</a> | 
-    <a href="mailto:cephas@tech.org">Email</a> | 
-    <a href="https://github.com/CephasTechOrg">GitHub</a> | 
-    WhatsApp: +233551560593
+    <img src="https://img.shields.io/badge/AI%2FML-Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge&logo=spacy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Predictive%20Analytics-purple?style=for-the-badge"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Full%20Stack-Web%20Dev-red?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mobile-Apps-yellow?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/API-Design-lightblue?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microservices-gray?style=for-the-badge"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NoSQL-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data-Warehousing-purple?style=for-the-badge"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-lightblue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </p>
 
-  <h3>🚀 Current Projects</h3>
-  <ul>
-    <li>Building AI-powered business intelligence tools</li>
-    <li>Developing machine learning models for predictive analytics</li>
-    <li>Creating educational content for AI/ML enthusiasts</li>
+  <hr style="width:60%; border:1px solid #ccc;">
+
+  <h2>🎓 Education Goals</h2>
+  <ul style="list-style:none; padding:0;">
+    <li>📘 Advanced Machine Learning Specialization</li>
+    <li>🤖 Deep Learning and Neural Networks</li>
+    <li>⚙️ MLOps and Model Deployment</li>
+    <li>🔬 AI Research and Development</li>
+  </ul>
+
+  <hr style="width:60%; border:1px solid #ccc;">
+
+  <h2>📬 Contact Info</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="mailto:cephas@tech.org">
+      <img src="https://img.shields.io/badge/Email-cephas%40tech.org-red?style=for-the-badge&logo=gmail"/>
+    </a>
+    <a href="https://github.com/CephasTechOrg">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+    </a>
+  </p>
+  <p>📱 WhatsApp: <b>+233551560593</b></p>
+
+  <hr style="width:60%; border:1px solid #ccc;">
+
+  <h2>🚀 Current Projects</h2>
+  <ul style="list-style:none; padding:0;">
+    <li>📊 Building AI-powered business intelligence tools</li>
+    <li>🔮 Developing machine learning models for predictive analytics</li>
+    <li>📚 Creating educational content for AI/ML enthusiasts</li>
   </ul>
 
 </div>
+
