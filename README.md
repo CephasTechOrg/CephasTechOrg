@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner Section - ADD YOUR BANNER LINK HERE -->
+<!-- Banner Section -->
 <img src="https://via.placeholder.com/1500x500/0d1117/58a6ff?text=Cephas+Osei+Bonsu+-+Software+Developer+%26+AI+ML+Engineer" alt="Cephas Osei Bonsu" width="100%"/>
 
 <!-- Main Title -->
@@ -59,19 +59,19 @@
 ## 🎯 Career Vision & Goals
 
 ### **🔄 Current Focus (2024)**
-- **🤖 AI/ML Development**: Building and deploying machine learning models
-- **💻 Software Engineering**: Full-stack development with modern technologies  
-- **📚 Continuous Learning**: Advanced algorithms and data structures
+- 🤖 AI/ML Development: Building and deploying machine learning models  
+- 💻 Software Engineering: Full-stack development with modern technologies  
+- 📚 Continuous Learning: Advanced algorithms and data structures  
 
 ### **🎯 Short-term Goals (2025)**
-- **🚀 Lead AI Projects**: Manage end-to-end ML project lifecycle
-- **📊 Production ML**: Deploy models to production environments
-- **👨‍💻 Tech Leadership**: Mentor junior developers in AI/ML
+- 🚀 Lead AI Projects: Manage end-to-end ML project lifecycle  
+- 📊 Production ML: Deploy models to production environments  
+- 👨‍💻 Tech Leadership: Mentor junior developers in AI/ML  
 
 ### **🌟 Long-term Vision (2026+)**
-- **🏆 AI Research**: Contribute to cutting-edge AI research
-- **🌍 Social Impact**: Use AI to solve African challenges
-- **📈 Startup Venture**: Launch AI-focused tech startup
+- 🏆 AI Research: Contribute to cutting-edge AI research  
+- 🌍 Social Impact: Use AI to solve African challenges  
+- 📈 Startup Venture: Launch AI-focused tech startup  
 
 ---
 
@@ -79,10 +79,8 @@
 
 <div align="center">
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff" width="90%"/>
 
-<!-- Trophy Case -->
 <img src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="Trophies" />
 
 </div>
@@ -97,56 +95,3 @@ JavaScript    ██████████████░░░░░░░░
 TypeScript    ██████████░░░░░░░░░░░░░░   50%   Full-Stack Apps
 Java          ████████░░░░░░░░░░░░░░░░   40%   Enterprise Solutions
 Other         █████░░░░░░░░░░░░░░░░░░░   25%   DevOps & Tools
-👨‍💻 About Me
-python
-class Developer:
-    def __init__(self):
-        self.name = "Cephas Osei Bonsu"
-        self.role = "Software Developer & AI/ML Engineer"
-        self.passion = "Building intelligent solutions"
-    
-    def skills(self):
-        return ["AI/ML", "Web Development", "Cloud Computing", "Data Science"]
-    
-    def contact(self):
-        return {
-            "location": "Ghana",
-            "email": "cephas@tech.org",
-            "phone": "+233551560593"
-        }
-
-me = Developer()
-🚀 Featured Projects
-Project	Description	Tech Stack	Status
-AI Analytics Platform	ML-powered data analysis	Python, React, FastAPI	🚧 Developing
-Smart Code Assistant	AI-driven development tool	TypeScript, OpenAI API	🔥 Active
-Predictive Maintenance	Equipment failure prediction	PyTorch, Django	✅ Completed
-📫 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Cephas_Osei_Bonsu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/WhatsApp-+233551560593-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/Email-cephas@tech.org-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-CephasTechOrg-181717?style=for-the-badge&logo=github&logoColor=white
-
-
-https://img.shields.io/badge/YouTube-Coming_Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Instagram-Coming_Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Facebook-Coming_Soon-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-
-</div>
-💡 Philosophy & Mindset
-"I believe in using technology as a tool for empowerment and innovation. My mission is to bridge the gap between complex AI concepts and practical, real-world applications that create meaningful impact."
-
-<div align="center">
-⚡ Daily Motivation: "Every line of code is an opportunity to learn and improve."
-https://komarev.com/ghpvc/?username=CephasTechOrg&color=blue&style=for-the-badge&label=PROFILE+VISITORS
-https://badges.pufler.dev/repos/CephasTechOrg?color=blue&style=for-the-badge
-
-🎯 Let's build the future together! Feel free to reach out for collaborations.
-
-
-<!-- Snake Animation -->
-https://github.com/CephasTechOrg/CephasTechOrg/blob/output/github-contribution-grid-snake.svg
-
-</div>
