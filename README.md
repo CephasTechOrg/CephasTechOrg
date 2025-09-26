@@ -36,54 +36,80 @@
 
 ---
 
+<div align="center">
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I'm a passionate software developer from Ghana with a strong focus on AI and machine learning. Currently building intelligent systems that address real-world challenges in healthcare and beyond. My mission is to leverage technology to empower communities and drive meaningful innovation.
+I'm a passionate **software developer from Ghana** with a strong focus on **AI and machine learning**.  
+Currently building intelligent systems that address real-world challenges in healthcare and beyond.  
+My mission is to leverage technology to empower communities and drive meaningful innovation.  
 
-## 🎯 Career Vision
-
-I aim to become a software engineer specializing in AI and machine learning, building intelligent systems that:
-- Improve healthcare access and outcomes
-- Address global security challenges
-- Reduce economic inequality
-- Combat environmental decline
-- Create opportunities for underserved communities
+</div>  
 
 ---
 
-## 🚀 Current Project: Vitalgo
+<div align="center">
 
-**Vitalgo** is a health technology company I'm building that features:
-- **Smart wristwatch** for real-time health data tracking
-- **Advanced backend** for data processing and analysis
-- **Real-time dashboards** for patients and doctors
-- **Health monitoring** and predictive analytics
+## 🎯 Career Vision  
+
+I aim to become a **software engineer specializing in AI and machine learning**, building intelligent systems that:  
+- Improve healthcare access and outcomes  
+- Address global security challenges  
+- Reduce economic inequality  
+- Combat environmental decline  
+- Create opportunities for underserved communities  
+
+</div>  
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
 
-### **💻 Programming & Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🚀 Current Project: Vitalgo  
 
-### **🌐 Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Vitalgo** is a health technology company I'm building that features:  
+- 🩺 **Smart wristwatch** for real-time health data tracking  
+- ⚡ **Advanced backend** for data processing and analysis  
+- 📊 **Real-time dashboards** for patients and doctors  
+- 🤖 **Health monitoring** and predictive analytics  
 
-### **🗄️ Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+</div>  
 
-### **🤖 AI/ML Focus**
-*Currently learning and building projects in:*
-- Machine Learning fundamentals
-- AI system design
-- Data analysis and modeling
-- Predictive analytics
+---
+
+<div align="center">
+
+## 🛠️ Technical Skills  
+
+### 💻 Programming & Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+### 🌐 Frontend Technologies  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🎨 Design & Media  
+![Microsoft Publisher](https://img.shields.io/badge/Publisher-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  
+
+### 🤖 AI/ML Focus  
+*Currently learning and building projects in:*  
+- Machine Learning fundamentals  
+- AI system design  
+- Data analysis and modeling  
+- Predictive analytics  
+
+</div>  
 
 ---
 ## 📜 Certificates & Achievements
