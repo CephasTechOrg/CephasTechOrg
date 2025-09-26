@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" alt="Cephas Osei Bonsu Banner" width="100%">
+<!-- Banner (Cover Photo Style) -->
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" alt="Cephas Osei Bonsu Banner" width="80%">
 
 <!-- Animated Greeting -->
 <h1 align="center">
@@ -13,6 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=💻+Software+Developer;🤖+AI%2FML+Enthusiast;🚀+Health+Tech+Innovator;🌍+Building+Tech+for+Communities)](https://git.io/typing-svg)
 
 </div>
+
 
 
 <!-- GitHub Stats -->
