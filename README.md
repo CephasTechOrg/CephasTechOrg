@@ -34,7 +34,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&dates=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&count_private=true&cache_seconds=1)](https://git.io/streak-stats)
+
 
 <!-- Activity Graph -->
 <p align="center">
