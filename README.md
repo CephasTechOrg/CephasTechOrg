@@ -29,11 +29,6 @@
 
 <br>
 
-<!-- Streak Card -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CephasTechOrg&theme=tokyonight&hide_border=false&background=1B1F26&stroke=FF66C4&fire=FF66C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://github.com/CephasTechOrg)
-
-</div>
-
 ---
 ## 📊 GitHub Activity
 
