@@ -18,12 +18,20 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  
-[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)](https://github.com/CephasTechOrg)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=6)](https://github.com/CephasTechOrg)
+<!-- Overall Stats Card -->
+[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&hide_title=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/CephasTechOrg)
 
-</div>
+<br>
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&hide_border=false&bg_color=1B1F26&title_color=FF66C4&text_color=FFFFFF&langs_count=6)](https://github.com/CephasTechOrg)
+
+<br>
+
+<!-- Streak Card -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CephasTechOrg&theme=tokyonight&hide_border=false&background=1B1F26&stroke=FF66C4&fire=FF66C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://github.com/CephasTechOrg)
+
 </div>
 
 ---
