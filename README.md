@@ -114,9 +114,10 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 
 ---
 
-## 📫 Connect With Me  
+  
 
 <div align="center">
+## 📫 Connect With Me 
 
 <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
