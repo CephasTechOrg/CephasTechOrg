@@ -94,7 +94,7 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 - Global Percentile: Top 1% out of 30,000 participants worldwide  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="500" alt="American Math Olympiad Certificate">
+  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="350" alt="American Math Olympiad Certificate">
 </p>
 
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png)
@@ -106,7 +106,7 @@ I aim to become a software engineer specializing in AI and machine learning, bui
 - Recognized for technical creativity and applying space technology to real-world issues  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png" width="500" alt="NASA Space App Certificate">
+  <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png" width="350" alt="NASA Space App Certificate">
 </p>
 
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)
