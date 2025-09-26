@@ -1,23 +1,16 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/header.png?raw=true" alt="Cephas Osei Bonsu - Software Developer & AI/ML Engineer" width="100%"/>
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" alt="Cephas Osei Bonsu Banner" width="100%">
 
 <!-- Animated Greeting -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px">
-  Hello, I'm  
-  <span style="font-size: 40px; font-weight: bold; background: linear-gradient(90deg,#0077b5,#00c6ff,#0077b5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Cephas Osei Bonsu
-  </span>
+  Hello, I'm <strong>Cephas Osei Bonsu</strong>
 </h1>
 
-<!-- Typewriter Effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=💻+Software+Developer;🤖+AI%2FML+Enthusiast;🚀+Health+Tech+Innovator;🌍+Building+Tech+for+Communities" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=💻+Software+Developer;🤖+AI%2FML+Enthusiast;🚀+Health+Tech+Innovator;🌍+Building+Tech+for+Communities)](https://git.io/typing-svg)
 
 </div>
 
