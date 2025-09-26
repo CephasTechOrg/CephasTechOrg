@@ -20,7 +20,8 @@
 <div align="center">
 
 <!-- Overall Stats Card -->
-[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&hide_title=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/CephasTechOrg)
+<!-- Overall Stats Card -->
+[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&hide_title=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF&cache_seconds=1)](https://github.com/CephasTechOrg)
 
 <br>
 
