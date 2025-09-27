@@ -137,7 +137,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 ### 🏆 American Math Olympiad (Honorable Mention)
 - Global Ranking: 10th | National Ranking: 3rd
 - School Ranking: 1st out of 1,700 students
-- Global Percentile: Top 1% out of 30,000 participants worldwide  
+- Global Percentile: Top 1% out of 30,000 participants worldwide.  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="350" alt="American Math Olympiad Certificate">
