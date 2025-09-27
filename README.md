@@ -73,12 +73,10 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - 🤖 **Health monitoring** and predictive analytics
   </div>  
 
----
+---<h2 align="center">🛠️ Technical Skills</h2>
+
+<h3 align="center">💻 Programming & Development</h3>
 <div align="center">
-## 🛠️ Technical Skills  
-
-### 💻 Programming & Development  
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,21 +85,21 @@ I aim to become a **software engineer specializing in AI and machine learning**,
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>  
-<div align="center">
-### 🌐 Frontend  
 
+<h3 align="center">🌐 Frontend</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>  
-<div align="center">
-### 🗄️ Databases  
 
+<h3 align="center">🗄️ Databases</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
 </div>  
-<div align="center">
-### 🎨 Design & Media  
 
+<h3 align="center">🎨 Design & Media</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Publisher-217346?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </div>  
