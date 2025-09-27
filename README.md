@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Banner (Cover Photo Style) -->
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" alt="Cephas Osei Bonsu Banner" width="80%">
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" 
+     alt="Cephas Osei Bonsu Banner" 
+     width="100%" 
+     height="220px" 
+     style="object-fit:cover; border-radius:10px;" />
 
 <!-- Animated Greeting -->
 <h1 align="center">
@@ -14,40 +18,30 @@
 
 </div>
 
-
-
-<!-- GitHub Stats -->
-<div align="center">
-
-<!-- Overall Stats Card -->
-<!-- Overall Stats Card -->
-[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&hide_title=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF&cache_seconds=1)](https://github.com/CephasTechOrg)
-
-<br>
-
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&hide_border=false&bg_color=1B1F26&title_color=FF66C4&text_color=FFFFFF&langs_count=6)](https://github.com/CephasTechOrg)
-
-<br>
-
 ---
-## 📊 GitHub Activity
+
+## 📊 GitHub Stats & Activity  
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CephasTechOrg&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&count_private=true&cache_seconds=1)](https://git.io/streak-stats)
+[![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF&cache_seconds=1800)](https://github.com/CephasTechOrg)
 
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&hide_border=false&bg_color=1B1F26&title_color=FF66C4&text_color=FFFFFF&langs_count=6&cache_seconds=1800)](https://github.com/CephasTechOrg)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CephasTechOrg&theme=tokyonight&hide_border=false&background=1B1F26&ring=FF66C4&fire=FF66C4&currStreakLabel=FF66C4&cache_seconds=1800)](https://git.io/streak-stats)
+
+<br>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="90%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=1B1F26&hide_border=false&color=FF66C4&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&custom_title=Contribution+Graph&cache_seconds=1800" width="95%"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 👨‍💻 About Me  
 
@@ -55,11 +49,7 @@ I'm a passionate **software developer from Ghana** with a strong focus on **AI a
 Currently building intelligent systems that address real-world challenges in healthcare and beyond.  
 My mission is to leverage technology to empower communities and drive meaningful innovation.  
 
-</div>  
-
 ---
-
-<div align="center">
 
 ## 🎯 Career Vision  
 
@@ -70,11 +60,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - Combat environmental decline  
 - Create opportunities for underserved communities  
 
-</div>  
-
 ---
-
-<div align="center">
 
 ## 🚀 Current Project: Vitalgo  
 
@@ -84,11 +70,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - 📊 **Real-time dashboards** for patients and doctors  
 - 🤖 **Health monitoring** and predictive analytics  
 
-</div>  
-
 ---
-
-<div align="center">
 
 ## 🛠️ Technical Skills  
 
@@ -103,7 +85,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>  
 
-### 🌐 Frontend Technologies  
+### 🌐 Frontend  
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -128,16 +110,14 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - Data analysis and modeling  
 - Predictive analytics  
 
-</div>
-
-
 ---
-## 📜 Certificates & Achievements
 
-### 🏆 American Math Olympiad (Honorable Mention)
-- Global Ranking: 10th | National Ranking: 3rd
-- School Ranking: 1st out of 1,700 students
-- Global Percentile: Top 1% out of 30,000 participants worldwide.  
+## 📜 Certificates & Achievements  
+
+### 🏆 American Math Olympiad (Honorable Mention)  
+- Global Ranking: 10th | National Ranking: 3rd  
+- School Ranking: 1st out of 1,700 students  
+- Global Percentile: Top 1% out of 30,000 participants worldwide  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="350" alt="American Math Olympiad Certificate">
@@ -147,7 +127,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 
 ---
 
-### 🚀 NASA Space App Challenge
+### 🚀 NASA Space App Challenge  
 - Award: Innovative Solution using NASA Open Data  
 - Recognized for technical creativity and applying space technology to real-world issues  
 
@@ -157,46 +137,42 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)
 
-
 ---
 
-  
+## 📫 Connect With Me  
 
 <div align="center">
-## 📫 Connect With Me 
 
 <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:cephas@tech.org" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/CephasTechOrg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://wa.me/233551560593" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://x.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://t.me/" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
-
 
 ---
 
 <div align="center">
   
-*"Technology is best when it brings people together and solves real problems."*
+*"Technology is best when it brings people together and solves real problems."*  
 
 </div>
-
