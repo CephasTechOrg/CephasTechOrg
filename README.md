@@ -73,7 +73,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - 🤖 **Health monitoring** and predictive analytics
   </div>  
 
----<h2 align="center">🛠️ Technical Skills</h2>
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <h3 align="center">💻 Programming & Development</h3>
 <div align="center">
