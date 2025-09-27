@@ -19,10 +19,11 @@
 </div>
 
 ---
+<div align="center">
 
 ## 📊 GitHub Stats & Activity  
 
-<div align="center">
+
 
 [![Cephas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=1B1F26&title_color=FF66C4&icon_color=FF66C4&text_color=FFFFFF&cache_seconds=1800)](https://github.com/CephasTechOrg)
 
@@ -42,6 +43,7 @@
 </div>
 
 ---
+<div align="center">
 
 ## 👨‍💻 About Me  
 
@@ -68,14 +70,15 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 - 🩺 **Smart wristwatch** for real-time health data tracking  
 - ⚡ **Advanced backend** for data processing and analysis  
 - 📊 **Real-time dashboards** for patients and doctors  
-- 🤖 **Health monitoring** and predictive analytics  
+- 🤖 **Health monitoring** and predictive analytics
+  </div>  
 
 ---
-
+<div align="center">
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming & Development  
-<div align="center">
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -84,25 +87,26 @@ I aim to become a **software engineer specializing in AI and machine learning**,
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>  
-
-### 🌐 Frontend  
 <div align="center">
+### 🌐 Frontend  
+
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>  
-
-### 🗄️ Databases  
 <div align="center">
+### 🗄️ Databases  
+
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
 </div>  
-
-### 🎨 Design & Media  
 <div align="center">
+### 🎨 Design & Media  
+
   <img src="https://img.shields.io/badge/Publisher-217346?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </div>  
 
+<div align="center">
 ### 🤖 AI/ML Focus  
 *Currently learning and building projects in:*  
 - Machine Learning fundamentals  
@@ -136,6 +140,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 </p>
 
 [View Certificate](https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png)
+</div>
 
 ---
 
