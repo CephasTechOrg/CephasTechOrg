@@ -142,7 +142,7 @@ I aim to become a **software engineer specializing in AI and machine learning**,
 
 ---
 
-## 📫 Connect With Me  
+<h2 align="center">Contact Me📞</h2>
 
 <div align="center">
 
