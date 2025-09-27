@@ -6,7 +6,7 @@
 <!-- Animated Greeting -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px">
-  Hello, I'm <strong>Cephas Osei Bonsu</strong>
+  Hello, I'm <strong>Cephas Osei-Bonsu</strong>
 </h1>
 
 <!-- Typing Animation -->
