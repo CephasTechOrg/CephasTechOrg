@@ -13,7 +13,7 @@
   Hello, I'm <strong>Cephas Osei-Bonsu</strong>
 </h1>
 
-<!-- Typing Anima -->
+<!-- Typing  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=💻+Software+Developer;🤖+AI%2FML+Enthusiast;🚀+Health+Tech+Innovator;🌍+Building+Tech+for+Communities)](https://git.io/typing-svg)
 
 </div>
