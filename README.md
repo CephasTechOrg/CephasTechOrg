@@ -51,7 +51,7 @@ I'm a passionate **software developer from Ghana** with a strong focus on **AI a
 Currently building intelligent systems that address real-world challenges in healthcare and beyond.  
 My mission is to leverage technology to empower communities and drive meaningful innovation.  
 
----
+
 
 ## 🎯 Career Vision  
 
