@@ -7,7 +7,7 @@
      height="220px" 
      style="object-fit:cover; border-radius:10px;" />
 
-<!-- Animated Greetings -->
+<!-- Animate Greetings -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px">
   Hello, I'm <strong>Cephas Osei-Bonsu</strong>
