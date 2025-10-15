@@ -1,10 +1,16 @@
-<!-- 💫 FUTURISTIC GITHUB PROFILE README - CEPHAS OSEI-BONSU -->
+<!-- 💫 MASTER README — CENTER-ALIGNED • CEPHAS OSEI-BONSU -->
 <div align="center">
 
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true" width="100%" height="230px" style="object-fit:cover;border-radius:15px;" alt="Cephas Banner"/>
+<!-- Banner -->
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+     alt="Cephas Banner"
+     width="100%"
+     height="230px"
+     style="object-fit:cover;border-radius:15px;" />
 
-# 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**  
-### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 HealthTech Innovator  
+<!-- Hero -->
+# 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
+### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 HealthTech Innovator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Technology+That+Empowers+Communities;Transforming+Health+Data+Into+Human+Impact;Innovating+Through+AI+and+Machine+Learning)](https://git.io/typing-svg)
 
@@ -12,20 +18,24 @@
 
 ---
 
+<div align="center">
+
 ## 🌟 Quick Access
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cephas@tech.org"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/CephasTechOrg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/233551560593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-osei-bonsu-911731326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cephas@tech.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/233551560593)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me  
+<div align="center">
+
+## 👨‍💻 About Me
 
 I’m a passionate **Software Developer from Ghana**, deeply focused on **Artificial Intelligence** and **HealthTech innovation**.  
 My mission is to **build intelligent systems that solve real-world problems** and **create opportunities for communities worldwide**.
@@ -33,44 +43,56 @@ My mission is to **build intelligent systems that solve real-world problems** an
 🧠 I believe in _Technology with Purpose._  
 💬 “The best code isn’t just smart — it’s meaningful.”
 
+</div>
+
 ---
 
-## 🧭 My Vision  
+<div align="center">
 
-I’m on a lifelong journey to become an **AI-driven Software Engineer** crafting systems that:  
+## 🧭 Vision
+
+I’m on a lifelong journey to become an **AI-driven Software Engineer** crafting systems that:
 - 🩺 Revolutionize healthcare access and predictive medicine  
 - 🧠 Push the limits of machine learning innovation  
 - 🌍 Reduce global inequality through technology  
-- 🔒 Strengthen cybersecurity and data ethics  
+- 🔒 Strengthen cybersecurity and data ethics
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Project — **Vitalgo**
 
 > “Empowering lives through real-time health intelligence.”
 
-**Vitalgo** is a HealthTech innovation combining **AI, data science**, and **IoT** to improve healthcare monitoring.
+**Vitalgo** is a HealthTech initiative combining **AI, data science**, and **IoT** to improve healthcare monitoring.
 
 **Core Features:**
 - 🩺 Smart health wristwatch for real-time vitals  
 - 🤖 AI-powered predictive analytics  
 - ⚡ FastAPI + PostgreSQL backend  
-- 📊 Real-time dashboards for clinicians  
+- 📊 Real-time dashboards for clinicians
 
 <p align="center">
   <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="Vitalgo Demo"/>
 </p>
 
+</div>
+
 ---
 
-## 🛠️ Tech Arsenal  
+<div align="center">
 
-### 💻 Programming Languages
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -79,17 +101,19 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧠 AI & Machine Learning Focus
+### 🧠 AI & ML Focus
 - Machine Learning Fundamentals  
 - AI System Architecture  
-- Data Modeling & Predictive Analytics  
-- Neural Networks & Intelligent Systems  
+- Predictive Analytics & Data Modeling  
+- Neural Networks & Intelligent Systems
+
+</div>
 
 ---
 
-## 📊 Stats & Analytics  
-
 <div align="center">
+
+## 📊 Stats & Analytics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/CephasTechOrg)
 
@@ -101,60 +125,77 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square)](https://github.com/CephasTechOrg)
 
 </div>
 
 ---
 
-## 🏆 Achievements  
+<div align="center">
 
-### 🥇 American Math Olympiad (Honorable Mention)
+## 🏆 Achievements
+
+### 🥇 American Math Olympiad (Honorable Mention)  
 🏅 **Global Rank:** Top 1% of 30,000 Participants  
-🌍 **National Rank:** 3rd | **School Rank:** 1st  
+🌍 **National Rank:** 3rd | **School Rank:** 1st
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/american.png" width="350" alt="AMO Certificate"/>
 </p>
 
-### 🚀 NASA Space Apps Challenge
-🏆 **Award:** Innovative Solution Using NASA Open Data  
-💡 Recognized for technical creativity & global impact  
+### 🚀 NASA Space Apps Challenge  
+🏆 **Award:** Innovative Solution Using NASA Open Data
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/NASA%20Space%20Apps%20Challenge.png" width="350" alt="NASA Space Apps"/>
 </p>
 
----
-
-## 🎧 Currently Vibing To  
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-## 💬 Inspirational Quote  
-
-> “Technology is not about tools; it’s about solving human problems and inspiring progress.”
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cephas@tech.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/CephasTechOrg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/233551560593"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-✨ _“Technology is best when it brings people together and solves real problems.”_ ✨  
+## 🎵 Music — *Heal the World*
+
+> Note: GitHub READMEs cannot autoplay audio. Click the badge below to open **“Heal the World”** in Spotify.
+
+[![Heal the World - Open on Spotify](https://img.shields.io/badge/Play%20%22Heal%20the%20World%22-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/heal%20the%20world)
+
+*(If you want this to point to a specific playlist or your personal Spotify playlist, paste the playlist/track link and I’ll update the badge to link directly.)*
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Inspirational Quote
+
+> “Technology is not about tools; it’s about solving human problems and inspiring progress.”
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-osei-bonsu-911731326/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cephas@tech.org)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233551560593)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ _“Technology is powerful when used to uplift humanity.”_ ✨  
 **— Cephas Osei-Bonsu**
 
 </div>
