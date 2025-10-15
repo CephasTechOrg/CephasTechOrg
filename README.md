@@ -20,14 +20,10 @@
 
 <div align="center">
 
-## 🌟 Quick Access
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-osei-bonsu-911731326/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cephas@tech.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/233551560593)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
+
 
 </div>
 
@@ -123,7 +119,6 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square)](https://github.com/CephasTechOrg)
 
@@ -158,11 +153,11 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ## 🎵 Music — *Heal the World*
 
-
+> Note: GitHub READMEs cannot autoplay audio. Click the badge below to open **“Heal the World”** in Spotify.
 
 [![Heal the World - Open on Spotify](https://img.shields.io/badge/Play%20%22Heal%20the%20World%22-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/heal%20the%20world)
 
-
+*(If you want this to point to a specific playlist or your personal Spotify playlist, paste the playlist/track link and I’ll update the badge to link directly.)*
 
 </div>
 
