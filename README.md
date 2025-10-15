@@ -158,11 +158,11 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ## 🎵 Music — *Heal the World*
 
-> Note: GitHub READMEs cannot autoplay audio. Click the badge below to open **“Heal the World”** in Spotify.
+
 
 [![Heal the World - Open on Spotify](https://img.shields.io/badge/Play%20%22Heal%20the%20World%22-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/heal%20the%20world)
 
-*(If you want this to point to a specific playlist or your personal Spotify playlist, paste the playlist/track link and I’ll update the badge to link directly.)*
+
 
 </div>
 
