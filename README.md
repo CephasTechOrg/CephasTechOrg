@@ -1,4 +1,4 @@
-<!-- 💫 MASTER README — CENTR-• CPS E->
+<!-- 💫 MASTER README — CENTRCPS E->
 <div align="center">
 
 <!-- Banner -->
