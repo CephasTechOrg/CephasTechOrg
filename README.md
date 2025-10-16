@@ -1,4 +1,4 @@
-<!-- 💫 MASTER README — CENTER-ALINED • CEPHAS E->
+<!-- 💫 MASTER README — CENTER-ALINED • CEPS E->
 <div align="center">
 
 <!-- Banner -->
