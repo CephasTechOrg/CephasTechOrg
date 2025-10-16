@@ -1,4 +1,4 @@
-<!-- 💫 MASTER README — CENTER-ALIGNED • CEPHAS OSEI-B ->
+<!-- 💫 MASTER README — CENTER-ALINED • CEPHAS OSEI-B ->
 <div align="center">
 
 <!-- Banner -->
