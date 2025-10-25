@@ -1,4 +1,4 @@
-<!-- 💫 MASTER RE --->
+<!-- 💫 MASTER --->
 <div align="center">
 
 <!-- Banner -->
