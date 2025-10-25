@@ -1,4 +1,4 @@
-<!-- 💫 MASTER README — CENTER-ALIGNED • --->
+<!-- 💫 MASTER README — CENTER• --->
 <div align="center">
 
 <!-- Banner -->
