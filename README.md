@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Software Developer from Ghana**, deeply focused on **Artificial Intelligence** and **HealthTech innovation**.  
+I’m a passionate **Software Developer from Ghana**, deeply interested in **Artificial Intelligence** and **HealthTech innovation**.  
 My mission is to **build intelligent systems that solve real-world problems** and **create opportunities for communities worldwide**.
 
 🧠 I believe in _Technology with Purpose._  
