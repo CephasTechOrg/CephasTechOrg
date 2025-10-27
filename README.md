@@ -8,7 +8,7 @@
      height="230px"
      style="object-fit:cover;border-radius:15px;" />
 
-<!-- Hero -->
+
 # 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
 ### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 HealthTech Innovator
 
