@@ -193,5 +193,3 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 **— Cephas Osei-Bonsu**
 
 </div>
-
-
