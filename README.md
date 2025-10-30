@@ -49,7 +49,7 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 - 🩺 Revolutionize healthcare access and predictive medicine  
 - 🧠 Push the limits of machine learning innovation  
 - 🌍 Reduce global inequality through technology  
-- 🔒 Strengthen cybersecurity and data ethics
+- 🔒 Strengthen cybersecurity and data ethics performance
 
 </div>
 
