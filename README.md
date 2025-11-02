@@ -1,9 +1,18 @@
 
+<div align="center">
 
-<div align="cent
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg
+
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+     alt="Cephas Banner"
+     width="100%"
      height="230px"
-     style="object-fit:cover;border-font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Technology+That+Empowers+Communities;Transforming+Health+Data+Into+Human+Impact;Innovating+Through+AI+and+Machine+Learning)](https://git.io/typing-svg)
+     style="object-fit:cover;border-radius:15px;" />
+
+
+# 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
+### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 HealthTech Innovator
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Technology+That+Empowers+Communities;Transforming+Health+Data+Into+Human+Impact;Innovating+Through+AI+and+Machine+Learning)](https://git.io/typing-svg)
 
 </div>
 
