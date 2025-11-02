@@ -1,9 +1,7 @@
 
 
 <div align="cent
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
-     alt="Cephas Banner"
-     width="100%"
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg
      height="230px"
      style="object-fit:cover;border-font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Technology+That+Empowers+Communities;Transforming+Health+Data+Into+Human+Impact;Innovating+Through+AI+and+Machine+Learning)](https://git.io/typing-svg)
 
