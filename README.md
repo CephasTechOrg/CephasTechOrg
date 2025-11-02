@@ -1,6 +1,4 @@
 
-<div align="center">
-
 
 <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
      alt="Cephas Banner"
