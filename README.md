@@ -1,11 +1,14 @@
-<p align="center">
+<div align="center">
+
   <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
        alt="Cephas Banner"
        width="900" />
-</p>
 
-# 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
-💬 “The best code isn’t just smart — it’s meaningful.”
+  <h1>👋🏽 Hello World, I'm <b>Cephas Osei-Bonsu</b></h1>
+
+  <p>💬 “The best code isn’t just smart — it’s meaningful.”</p>
+
+</div>
 
 ---
 
