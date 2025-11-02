@@ -34,8 +34,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**Vitalgo**](https://github.com/CephasTechOrg/Vitalgo) | Real-time HealthTech system using AI + IoT | FastAPI, PostgreSQL, ML |
-| [**AI PDF Analyzer**](https://github.com/CephasTechOrg/AI-PDF-Analyzer) | NLP-powered PDF intelligence engine | Python, LangChain, Streamlit |
-| [**SmartCampus**](https://github.com/CephasTechOrg/SmartCampus) | IoT-powered campus management platform | Node.js, React, TailwindCSS |
+| [**AI PDF Analyzer**](https://github.com/CephasTechOrg/AI-PDF-Analyzer) | AI-powered PDF intelligence engine | Python, PostgreSQL, FastAPI |
 
 </div>
 
@@ -87,23 +86,13 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ## 🧩 Current Missions
 
-🚧 **Building:** Real-time AI PDF Analyzer  
-⚡ **Learning:** Deep Learning with TensorFlow & FastAPI Optimization  
-🌍 **Exploring:** Scalable backend systems & AI ethics  
-🎯 **Goal:** Contribute to open-source AI projects that improve lives  
-
+🚧 Building: Advanced AI systems for health intelligence, document analysis, and intelligent software that addresses real-world challenges in finance and everyday life
+⚡ Learning: Deep learning architectures, AI reasoning frameworks, data structures, and scalable backend systems
+🧠 Creating: Smart, adaptive tools that integrate AI with practical human needs across multiple domains
+🌍 Exploring: System design, infrastructure scalability, and ethical AI implementation
+🎯 Goal: To make softwares that makes the world a better place
 ---
 
-## 🌅 Vision Board 2030 — <em>Dreams that Drive Me</em>
-
-💡 **AI for Humanity:**  
-AI systems that diagnose disease early, teach under-served communities, and protect the planet.  
-
-🌐 **Global Collaboration:**  
-Build open platforms for medical AI, education AI, and humanitarian data solutions.  
-
-🔮 **Long-Term Dream:**  
-To lead an international AI lab that merges ethics, science, and creativity.
 
 ---
 
