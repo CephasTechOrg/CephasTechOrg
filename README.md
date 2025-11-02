@@ -1,5 +1,5 @@
 <!--
-   🌌 MASTER README v3 — The Legendary AI Enthusiast Edition
+   🌌 MASTER README v4 — The Legendary AI Enthusiast Edition
    Designed for: Cephas Osei-Bonsu | GitHub: @CephasTechOrg
 -->
 
@@ -11,8 +11,20 @@
 
 <h1 align="center">👋🏽 Hello World, I'm <span style="color:#00FFFF;">Cephas Osei-Bonsu</span></h1>
 
+<!-- 🧠 Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Software+Engineer;Futuristic+Builder;Tech+Visionary;Dreamer+%7C+Innovator+%7C+Doer" alt="Typing SVG" />
+</p>
+
 💬 <em>“The best code isn’t just smart — it’s meaningful.”</em>  
 🌍 AI Enthusiast | Software Engineer | Visionary Builder  
+
+---
+
+<!-- 🟢 GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&bg_color=0D1117&color=00FFFF&line=FF66C4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
 
 ---
 
