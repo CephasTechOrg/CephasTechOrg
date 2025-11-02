@@ -1,6 +1,5 @@
 <!--
-   🌌 MASTER README v4 — The Legendary AI Enthusiast Edition
-   Designed for: Cephas Osei-Bonsu | GitHub: @CephasTechOrg
+
 -->
 
 <div align="center">
