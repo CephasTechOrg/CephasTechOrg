@@ -1,13 +1,11 @@
-
-
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
-     alt="Cephas Banner"
-     wid
+<p align="center">
+  <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+       alt="Cephas Banner"
+       width="900" />
+</p>
 
 # 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
 💬 “The best code isn’t just smart — it’s meaningful.”
-
-</div>
 
 ---
 
@@ -87,8 +85,6 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
 [![Profile Views](https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square)](https://github.com/CephasTechOrg)
 
 </div>
@@ -122,11 +118,7 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ## 🎵 Music — *Heal the World*
 
-
-
 [![Heal the World - Open on Spotify](https://img.shields.io/badge/Play%20%22Heal%20the%20World%22-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/heal%20the%20world)
-
-
 
 </div>
 
@@ -163,4 +155,3 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 **— Cephas Osei-Bonsu**
 
 </div>
-
