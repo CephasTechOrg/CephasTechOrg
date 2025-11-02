@@ -5,31 +5,6 @@
      wid
 
 # 👋🏽 Hello World, I'm **Cephas Osei-Bonsu**
-### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 HealthTech Innovator
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Technology+That+Empowers+Communities;Transforming+Health+Data+Into+Human+Impact;Innovating+Through+AI+and+Machine+Learning)](https://git.io/typing-svg)
-
-</div>
-
-
-
-<div align="center">
-
-## 🌟 Quick Access
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-I’m a passionate **Software Developer from Ghana**, deeply interested in **Artificial Intelligence** and **HealthTech innovation**.  
-My mission is to **build intelligent systems that solve real-world problems** and **create opportunities for communities worldwide**.
-
-🧠 I believe in _Technology with Purpose._  
 💬 “The best code isn’t just smart — it’s meaningful.”
 
 </div>
@@ -188,5 +163,4 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 **— Cephas Osei-Bonsu**
 
 </div>
-
 
