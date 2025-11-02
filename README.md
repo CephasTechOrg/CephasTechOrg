@@ -13,7 +13,7 @@
 
 <!-- 🧠 Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Software+Engineer;Futuristic+Builder;Tech+Visionary;Dreamer+%7C+Innovator+%7C+Doer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Software+Engineer;Futuristic+Builder;Tech+Visionary;Dreamer+%7C+Innovator+%7C+Making the world a better place" alt="Typing SVG" />
 </p>
 
 💬 <em>“The best code isn’t just smart — it’s meaningful.”</em>  
@@ -27,16 +27,18 @@
 </p>
 
 ---
+<div align="center">
 
-## 🧠 Achievement Cap System
+## 💎 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_Level-Star_B-00FFFF?style=for-the-badge&logo=star&logoColor=white"/>
-  <img src="https://img.shields.io/badge/⚡_XP-1420/2000-FF66C4?style=for-the-badge&logo=progress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🌟_Rank-12,340_Global-9D00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Vitalgo**](https://github.com/CephasTechOrg/Vitalgo) | Real-time HealthTech system using AI + IoT | FastAPI, PostgreSQL, ML |
+| [**AI PDF Analyzer**](https://github.com/CephasTechOrg/AI-PDF-Analyzer) | NLP-powered PDF intelligence engine | Python, LangChain, Streamlit |
+| [**SmartCampus**](https://github.com/CephasTechOrg/SmartCampus) | IoT-powered campus management platform | Node.js, React, TailwindCSS |
 
-<p align="center"><em>(Dynamic system — evolves as commits, followers, and stars grow)</em></p>
+</div>
+
 
 ---
 
@@ -136,6 +138,16 @@ To lead an international AI lab that merges ethics, science, and creativity.
 [![Profile Views](https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square)](https://github.com/CephasTechOrg)
 
 </p>
+
+<div align="center">
+
+## 💬 Random Inspiration
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+
 
 ---
 
