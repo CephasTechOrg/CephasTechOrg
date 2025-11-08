@@ -8,7 +8,7 @@
 
 <h1 align="center">👋🏽 Hello World, I'm <span style="color:#00FFFF;">Cephas Osei-Bonsu</span></h1>
 
-<!-- 🧠 Typing SVG Animation -->
+<!-- 🧠 Typing SVG Animaton -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Software+Engineer;Futuristic+Builder;Tech+Visionary;Dreamer+%7C+Innovator+%7C+Consistent" alt="Typing SVG" />
 </p>
