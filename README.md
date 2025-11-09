@@ -81,14 +81,7 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 ---
 
-<div style="text-align: center;">
-  <h2>🧩 Current Missions</h2>
-  <p>🚧 <strong>Building:</strong> Advanced AI systems for health intelligence, document analysis, and intelligent software addressing real-world challenges in finance and daily life.</p>
-  <p>⚡ <strong>Learning:</strong> Deep learning architectures, AI reasoning frameworks, data structures, and scalable backend systems.</p>
-  <p>🧠 <strong>Creating:</strong> Smart, adaptive tools that integrate AI with practical human needs across multiple domains.</p>
-  <p>🌍 <strong>Exploring:</strong> System design, infrastructure scalability, and ethical AI implementation.</p>
-  <p>🎯 <strong>Goal:</strong> To build software that makes the world a better place.</p>
-</div>
+
 <hr>
 
 
