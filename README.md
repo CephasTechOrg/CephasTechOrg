@@ -17,7 +17,7 @@
 🌍 AI Enthusiast | Software Engineer | Visionary Builder  
 
 
-<!-- 🟢 GitHub Contribution Graph -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&bg_color=0D1117&color=00FFFF&line=FF66C4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
