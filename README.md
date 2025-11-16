@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/github/followers/CephasTechOrg?style=social" />
 <img src="https://img.shields.io/github/stars/CephasTechOrg?style=social" />
 
+</div>
+
 ---
 
 ## 🧭 Vision
@@ -55,9 +57,9 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 
 <div align="center">
 
-🪐 **Languages**: Python · JavaScript · HTML · CSS · PostgreSQL  
-🌠 **Frameworks**: FastAPI · Node.js · React · TailwindCSS  
-🌍 **Tools**: Git · Docker · VSCode · Linux  
+🪐 <b>Languages</b>: Python · JavaScript · HTML · CSS · PostgreSQL  
+🌠 <b>Frameworks</b>: FastAPI · Node.js · React · TailwindCSS  
+🌍 <b>Tools</b>: Git · Docker · VSCode · Linux  
 
 <br/>
 
@@ -166,6 +168,39 @@ I’m on a lifelong journey to become an **AI-driven Software Engineer** craftin
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&margin-w=15" />
+
+</div>
+
+---
+
+## 🧬 Advanced Dev Metrics
+
+<div align="center">
+
+<!-- Full profile summary card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CephasTechOrg&theme=github_dark" alt="CephasTechOrg GitHub Summary Card" />
+
+<br/><br/>
+
+<!-- Composite stats widget -->
+<img src="https://myreadme.vercel.app/api/embed/CephasTechOrg" alt="CephasTechOrg Reimagined Readme Stats" />
+
+</div>
+
+---
+
+## 📌 Extra Dev Pins
+
+<div align="center">
+
+<!-- Extra pinned repo cards powered by github-readme-stats -->
+<a href="https://github.com/CephasTechOrg/Vitalgo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CephasTechOrg&repo=Vitalgo&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/CephasTechOrg/AI-PDF-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CephasTechOrg&repo=AI-PDF-Analyzer&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+</a>
 
 </div>
 
