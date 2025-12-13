@@ -160,9 +160,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CephasTechOrg&theme=github_dark" alt="GitHub Summary Card" />
   </p>
 
-  <p>
-    <img src="https://myreadme.vercel.app/api/embed/CephasTechOrg" alt="Reimagined Readme Stats" />
-  </p>
+ 
 
   <hr/>
 
