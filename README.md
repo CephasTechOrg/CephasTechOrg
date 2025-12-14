@@ -184,62 +184,21 @@
   </p>
 
   <p>
-    <!-- Fix: explicitly hide border + keep background + keep your color choices -->
+    <!-- Streak: can be intermittently down; added hide_border + cache-buster -->
     <img
-      src="https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117&hide_border=true"
+      src="https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117&hide_border=true&v=1"
       alt="GitHub Streak"
       loading="lazy"
     />
   </p>
 
   <p>
-    <!-- Fix: add no-frame to reduce render issues + keep no-bg + keep margin -->
+    <!-- Trophies: added no-frame + cache-buster -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15"
+      src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1"
       alt="GitHub Trophies"
       loading="lazy"
     />
-  </p>
-
-  <hr/>
-
-  <h2>🧬 Advanced Dev Metrics</h2>
-
-  <p>
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CephasTechOrg&theme=github_dark"
-      alt="GitHub Summary Card"
-      loading="lazy"
-    />
-  </p>
-
-  <p>
-    <img
-      src="https://myreadme.vercel.app/api/embed/CephasTechOrg"
-      alt="Reimagined Readme Stats"
-      loading="lazy"
-    />
-  </p>
-
-  <hr/>
-
-  <h2>📌 Extra Dev Pins</h2>
-
-  <p>
-    <a href="https://github.com/CephasTechOrg/Vitalgo">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=CephasTechOrg&repo=Vitalgo&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide_border=true"
-        alt="Vitalgo Repo Card"
-        loading="lazy"
-      />
-    </a>
-    <a href="https://github.com/CephasTechOrg/AI-PDF-Analyzer">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=CephasTechOrg&repo=AI-PDF-Analyzer&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide_border=true"
-        alt="AI PDF Analyzer Repo Card"
-        loading="lazy"
-      />
-    </a>
   </p>
 
   <hr/>
