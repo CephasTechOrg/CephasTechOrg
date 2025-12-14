@@ -40,7 +40,8 @@
   <p><em>"Technology that uplifts humanity."</em></p>
 
   <p>
-    I’m on a lifelong journey to become an <strong>AI-driven Software Engineer</strong> crafting systems that:
+    I’m on a lifelong journey to become an <strong>AI-driven Software Engineer</strong>
+    crafting systems that:
   </p>
 
   <p>
@@ -56,7 +57,7 @@
 
   <p>
     🚀 Building HealthTech systems like <strong>Vitalgo</strong><br/>
-    🧬 Exploring AI for brain health &amp; predictive analytics<br/>
+    🧬 Exploring AI for brain health &amp; predictive analytics
   </p>
 
 </div>
