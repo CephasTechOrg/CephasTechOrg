@@ -184,18 +184,18 @@
   </p>
 
   <p>
-    <!-- Streak: can be intermittently down; added hide_border + cache-buster -->
+    <!-- ✅ FIXED: streak URL format + added type=svg + cache_seconds -->
     <img
-      src="https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117&hide_border=true&v=1"
+      src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&background=0D1117&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&hide_border=true&type=svg&cache_seconds=86400"
       alt="GitHub Streak"
       loading="lazy"
     />
   </p>
 
   <p>
-    <!-- Trophies: added no-frame + cache-buster -->
+    <!-- ✅ FIXED: trophies URL normalized + added cache_seconds -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1"
+      src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&cache_seconds=86400"
       alt="GitHub Trophies"
       loading="lazy"
     />
