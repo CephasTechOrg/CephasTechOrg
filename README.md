@@ -184,20 +184,22 @@
   </p>
 
   <p>
-    <!-- ✅ FIXED: streak URL format + added type=svg + cache_seconds -->
+    <!-- ✅ FIXED: use the active Vercel deployment for streak stats -->
     <img
-      src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&background=0D1117&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&hide_border=true&type=svg&cache_seconds=86400"
+      src="https://git-hub-streak-stats.vercel.app/?user=CephasTechOrg&theme=tokyonight&background=0D1117&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&hide_border=true"
       alt="GitHub Streak"
       loading="lazy"
+      referrerpolicy="no-referrer"
     />
   </p>
 
   <p>
-    <!-- ✅ FIXED: trophies URL normalized + added cache_seconds -->
+    <!-- ✅ FIXED: use an alternate trophy deployment (avoids frequent downtime on the main instance) -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=CephasTechOrg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&cache_seconds=86400"
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=CephasTechOrg&theme=onedark&no-bg=true&no-frame=true&margin-w=15"
       alt="GitHub Trophies"
       loading="lazy"
+      referrerpolicy="no-referrer"
     />
   </p>
 
