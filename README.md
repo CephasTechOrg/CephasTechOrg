@@ -29,7 +29,7 @@
 
   <hr/>
 
-  <h2>🧭 Vision</h2>
+  <h2>Vision</h2>
 
   <p><em>"Technology that uplifts humanity."</em></p>
 
