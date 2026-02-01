@@ -72,27 +72,7 @@
 
   <hr/>
 
-  <h2>💎 Featured Projects</h2>
-
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CephasTechOrg/Vitalgo"><b>Vitalgo</b></a></td>
-      <td>Real-time HealthTech system using AI + IoT</td>
-      <td>FastAPI · PostgreSQL · ML · IoT</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CephasTechOrg/AI-PDF-Analyzer"><b>AI PDF Analyzer</b></a></td>
-      <td>AI-powered PDF intelligence engine</td>
-      <td>Python · PostgreSQL · FastAPI</td>
-    </tr>
-  </table>
-
-  <hr/>
+ 
 
   <h2>🚀 Spotlight — <span style="color:#00FFFF;">Vitalgo</span></h2>
 
