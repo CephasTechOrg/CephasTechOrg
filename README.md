@@ -11,7 +11,7 @@
   <h1>Cephas Osei-Bonsu</h1>
   <p><em>Software Engineer · AI Enthusiast</em></p>
 
-  <!-- Typing Line (Subtle) -->
+  <!-- Typing Line -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&pause=2500&color=00FFFF&center=true&vCenter=true&width=520&lines=Building+intelligent+and+scalable+systems"
     alt="Typing SVG"
@@ -31,6 +31,28 @@
   <p>
     I design and build <b>ethical, scalable, and intelligent software systems</b> with a strong focus on
     real-world impact, long-term reliability, and human-centered outcomes.
+  </p>
+
+  <hr/>
+
+  <!-- Core Project -->
+  <h2>Core Project</h2>
+
+  <h3>Vital-Go</h3>
+  <p>
+    Vital-Go is a <b>scalable, AI-powered healthcare platform</b> designed to make care delivery smarter,
+    faster, and more connected. The system integrates real-time wearable device data streaming,
+    AI-driven patient–doctor assignment, and secure video consultations to reduce wait times and
+    improve clinical decision-making.
+  </p>
+
+  <p>
+    The platform is built using <b>FastAPI</b>, <b>PostgreSQL</b>, <b>Redis</b>, <b>Next.js</b>, and
+    real-time AI pipelines, and is engineered for scalable deployment in modern healthcare environments.
+  </p>
+
+  <p>
+    <b>Role:</b> Co-Founder & Software Engineer — leading system architecture and backend development.
   </p>
 
   <hr/>
@@ -57,9 +79,6 @@
     />
   </p>
 
-
- 
-
   <p>
     <img
       src="https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&hide_border=true&cache_seconds=86400"
@@ -78,7 +97,7 @@
 
   <hr/>
 
-  <!-- Inspiration -->
+  <!-- Thought -->
   <h2>Thought</h2>
   <p>
     <img
