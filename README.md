@@ -52,7 +52,7 @@
   </p>
 
   <p>
-    <b>Role:</b> Co-Founder & Software Engineer — leading system architecture and backend development.
+    <b>Role:</b> Co-Founder & Software Engineer — system architecture,frontend development and backend development.
   </p>
 
   <hr/>
