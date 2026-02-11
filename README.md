@@ -61,7 +61,7 @@
   <h2>Technology</h2>
   <p>
     <img
-      src="https://skillicons.dev/icons?i=python,js,ts,html,css,postgres,redis,fastapi,nodejs,nextjs,react,tailwind,git,githubactions,docker,nginx,aws,linux,vscode,numpy,pandas,pytorch"
+      src="https://skillicons.dev/icons?i=python,js,ts,html,css,postgres,redis,fastapi,nodejs,nextjs,react,tailwind,git,githubactions,docker,nginx,aws,linux,vscode,numpy,pandas"
       alt="Technology Stack"
     />
   </p>
