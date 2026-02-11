@@ -52,7 +52,7 @@
   </p>
 
   <p>
-    <b>Role:</b> Co-Founder & Software Engineer — system architecture,frontend development and backend development.
+    <b>Role:</b> Co-Founder & Software Engineer — system architecture, frontend development, and backend development.
   </p>
 
   <hr/>
@@ -61,7 +61,7 @@
   <h2>Technology</h2>
   <p>
     <img
-      src="https://skillicons.dev/icons?i=python,js,html,css,postgres,fastapi,nodejs,react,tailwind,git,docker,linux,vscode"
+      src="https://skillicons.dev/icons?i=python,js,ts,html,css,postgres,redis,fastapi,nodejs,nextjs,react,tailwind,git,githubactions,docker,nginx,aws,linux,vscode,numpy,pandas,pytorch"
       alt="Technology Stack"
     />
   </p>
