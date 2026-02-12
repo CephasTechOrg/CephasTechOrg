@@ -2,7 +2,7 @@
 
   <!-- Banner -->
   <img
-    src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+    src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/https://github.com/CephasTechOrg/CephasTechOrg/blob/5227d96818ef3172b403733444770d19cb372e49/images/https://github.com/CephasTechOrg/CephasTechOrg/blob/5227d96818ef3172b403733444770d19cb372e49/images/ceph.png?raw=true"
     alt="Cephas Osei-Bonsu Banner"
     width="100%"
   />
