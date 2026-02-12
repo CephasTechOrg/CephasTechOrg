@@ -2,7 +2,7 @@
 
   <!-- Banner -->
   <img
-    src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/https://github.com/CephasTechOrg/CephasTechOrg/blob/5227d96818ef3172b403733444770d19cb372e49/images/https://github.com/CephasTechOrg/CephasTechOrg/blob/5227d96818ef3172b403733444770d19cb372e49/images/ceph.png?raw=true"
+    src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/ceph.png?raw=true"
     alt="Cephas Osei-Bonsu Banner"
     width="100%"
   />
