@@ -10,11 +10,17 @@
 
   <!-- Name & Role -->
   <h1>Cephas Osei-Bonsu</h1>
-  <p><em>Software Engineer · AI Enthusiast</em></p>
+  <p>
+    <em>Software Engineer · AI Builder · Full-Stack Developer</em>
+  </p>
+
+  <p>
+    Building intelligent, scalable, and reliable software systems for real-world impact.
+  </p>
 
   <!-- Typing Line -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&pause=2500&color=00FFFF&center=true&vCenter=true&width=520&lines=Building+intelligent+and+scalable+systems"
+    src="https://readme-typing-svg.demolab.com?font=Inter&pause=2500&color=00FFFF&center=true&vCenter=true&width=620&lines=Building+intelligent+and+scalable+systems;Designing+software+for+real-world+impact;Exploring+AI%2C+healthcare%2C+and+cloud+systems"
     alt="Typing SVG"
   />
 
@@ -25,12 +31,18 @@
     <img src="https://img.shields.io/github/stars/CephasTechOrg?style=social" alt="Stars"/>
   </p>
 
+  <p>
+    <img src="https://img.shields.io/badge/Full--Stack%20Engineering-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Engineering"/>
+    <img src="https://img.shields.io/badge/AI%20Integration-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration"/>
+    <img src="https://img.shields.io/badge/Healthcare%20Technology-0D1117?style=for-the-badge&logo=heart&logoColor=white" alt="Healthcare Technology"/>
+  </p>
+
   <hr/>
 
   <!-- About Me -->
   <h2>👨‍💻 About Me</h2>
   <p>
-    I'm a <b>Software Engineer</b> focused on building <b>scalable, reliable, and intelligent software systems</b> across full-stack development, AI, and cloud-backed products. My work centers on turning real-world problems into practical technology solutions, with a strong interest in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
+    I'm a <b>Software Engineer</b> focused on building <b>scalable, reliable, and intelligent software systems</b> across full-stack development, AI integration, backend architecture, and cloud-backed products. My work is driven by practical impact: turning real-world problems into clean, usable, and technically strong solutions, especially in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
   </p>
 
   <hr/>
@@ -40,22 +52,22 @@
 
   <h3>
     <a href="https://github.com/CephasTechOrg/Vital-Go" style="text-decoration: none; color: #00FFFF;">
-      Vital-Go - AI-Powered Healthcare Platform
+      Vital-Go - AI-Powered Remote Patient Monitoring Platform
     </a>
   </h3>
 
   <p>
-    <b>Vital-Go</b> is an AI-powered remote patient monitoring platform that connects wearable health data, real-time dashboards, clinical alerts, and intelligent insights into one system. The platform is designed to help patients, doctors, and care teams monitor vital signs more effectively, identify abnormal readings earlier, and make healthcare delivery more proactive, accessible, and data-driven.
+    <b>Vital-Go</b> is a full-stack healthcare monitoring platform that connects wearable health data, real-time dashboards, abnormal-reading alerts, and AI-assisted clinical insights into one connected system. It is designed to help patients and care teams monitor vital signs more effectively, detect concerning patterns earlier, and support more proactive, accessible, and data-driven healthcare delivery.
   </p>
 
   <!-- Detailed feature list commented out to keep the profile concise
   <p><b>Key Features:</b></p>
   <ul style="text-align: left; display: inline-block;">
-    <li>📊 <b>Real-time Wearable Integration:</b> Seamless streaming of patient vitals from wearable devices</li>
-    <li>🤖 <b>AI-Driven Patient Matching:</b> Intelligent patient-doctor assignment algorithm for optimal care</li>
-    <li>📹 <b>Secure Video Consultations:</b> HIPAA-compliant telemedicine capabilities</li>
-    <li>⚡ <b>Reduced Wait Times:</b> Optimized workflow for improved patient experience</li>
-    <li>🎯 <b>Clinical Decision Support:</b> AI-powered insights for enhanced diagnostic accuracy</li>
+    <li>📊 <b>Real-time Wearable Integration:</b> Streaming patient vitals from connected wearable devices</li>
+    <li>⚕️ <b>Patient & Doctor Dashboards:</b> Clean interfaces for live health monitoring and care visibility</li>
+    <li>🚨 <b>Clinical Alerts:</b> Abnormal-reading detection to help surface urgent patient needs earlier</li>
+    <li>🤖 <b>AI-Assisted Insights:</b> Structured summaries, severity assessment, and clinical decision support</li>
+    <li>📄 <b>Medical Reports:</b> Professional health summaries for sharing with doctors or specialists</li>
   </ul>
   -->
 
@@ -69,15 +81,22 @@
   </div>
   -->
 
-  <p><b>Technology Stack:</b></p>
+  <p><b>Project Stack</b></p>
+
   <p>
-    <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Next.js</code> · 
-    <code>React</code> · <code>TailwindCSS</code> · <code>Docker</code> · <code>AWS</code>
+    <code>FastAPI</code> ·
+    <code>PostgreSQL</code> ·
+    <code>Redis</code> ·
+    <code>Next.js</code> ·
+    <code>React</code> ·
+    <code>TailwindCSS</code> ·
+    <code>Docker</code> ·
+    <code>AWS</code>
   </p>
 
   <p>
     <b>My Role:</b> Co-Founder & Lead Software Engineer<br/>
-    <em>System architecture, backend engineering, frontend development, AI integration, and cloud deployment.</em>
+    <em>System architecture, backend engineering, frontend development, AI integration, database design, and deployment.</em>
   </p>
 
   <hr/>
@@ -87,8 +106,15 @@
 
   <p>
     <img
-      src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react,postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode"
-      alt="Technology Stack"
+      src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react"
+      alt="Languages and Frameworks"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode"
+      alt="Databases and Tools"
     />
   </p>
 
@@ -97,6 +123,40 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </p>
+
+  <p><b>Core Technologies</b></p>
+
+  <p>
+    <code>Python</code> ·
+    <code>JavaScript</code> ·
+    <code>TypeScript</code> ·
+    <code>HTML</code> ·
+    <code>CSS</code>
+  </p>
+
+  <p>
+    <code>FastAPI</code> ·
+    <code>Node.js</code> ·
+    <code>Next.js</code> ·
+    <code>React</code> ·
+    <code>TailwindCSS</code>
+  </p>
+
+  <p>
+    <code>PostgreSQL</code> ·
+    <code>Redis</code> ·
+    <code>Docker</code> ·
+    <code>Nginx</code> ·
+    <code>AWS</code>
+  </p>
+
+  <p>
+    <code>Git</code> ·
+    <code>GitHub Actions</code> ·
+    <code>Linux</code> ·
+    <code>VS Code</code> ·
+    <code>AI/ML</code>
   </p>
 
   <hr/>
@@ -134,9 +194,11 @@
 
   <!-- Contact -->
   <h2>📫 Let's Connect</h2>
+
   <p>
-    Open to software engineering, AI, healthcare technology, and product-focused collaboration.
+    Open to software engineering, AI, healthcare technology, backend systems, and product-focused collaboration.
   </p>
+
   <p>
     <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
