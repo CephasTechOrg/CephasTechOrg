@@ -1,11 +1,12 @@
 <div align="center">
 
-  <!-- Banner -->
+  <!-- Banner commented out for a cleaner profile header
   <img
     src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/ceph.png?raw=true"
     alt="Cephas Osei-Bonsu Banner"
     width="100%"
   />
+  -->
 
   <!-- Name & Role -->
   <h1>Cephas Osei-Bonsu</h1>
@@ -29,13 +30,7 @@
   <!-- About Me -->
   <h2>👨‍💻 About Me</h2>
   <p>
-    I'm a passionate <b>Software Engineer</b> specializing in building <b>ethical, scalable, and intelligent software systems</b>. 
-    My work focuses on creating real-world impact through innovative technology solutions that prioritize 
-    long-term reliability, user experience, and human-centered outcomes.
-  </p>
-  <p>
-    With expertise in full-stack development and AI integration, I bridge the gap between cutting-edge technology 
-    and practical healthcare solutions, working towards a future where technology enhances human well-being.
+    I'm a <b>Software Engineer</b> focused on building <b>scalable, reliable, and intelligent software systems</b> across full-stack development, AI, and cloud-backed products. My work centers on turning real-world problems into practical technology solutions, with a strong interest in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
   </p>
 
   <hr/>
@@ -48,13 +43,12 @@
       Vital-Go - AI-Powered Healthcare Platform
     </a>
   </h3>
-  
+
   <p>
-    <b>Vital-Go</b> is a comprehensive, <b>scalable AI-powered healthcare platform</b> designed to revolutionize 
-    care delivery by making it smarter, faster, and more connected. The platform addresses critical challenges 
-    in modern healthcare through innovative technology integration.
+    <b>Vital-Go</b> is an AI-powered remote patient monitoring platform that connects wearable health data, real-time dashboards, clinical alerts, and intelligent insights into one system. The platform is designed to help patients, doctors, and care teams monitor vital signs more effectively, identify abnormal readings earlier, and make healthcare delivery more proactive, accessible, and data-driven.
   </p>
 
+  <!-- Detailed feature list commented out to keep the profile concise
   <p><b>Key Features:</b></p>
   <ul style="text-align: left; display: inline-block;">
     <li>📊 <b>Real-time Wearable Integration:</b> Seamless streaming of patient vitals from wearable devices</li>
@@ -63,14 +57,17 @@
     <li>⚡ <b>Reduced Wait Times:</b> Optimized workflow for improved patient experience</li>
     <li>🎯 <b>Clinical Decision Support:</b> AI-powered insights for enhanced diagnostic accuracy</li>
   </ul>
-  
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+  -->
+
+  <!-- GitHub contribution snake animation commented out
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+  -->
 
   <p><b>Technology Stack:</b></p>
   <p>
@@ -80,31 +77,21 @@
 
   <p>
     <b>My Role:</b> Co-Founder & Lead Software Engineer<br/>
-    <em>Responsibilities: System architecture design, full-stack development, AI pipeline integration, and DevOps implementation</em>
+    <em>System architecture, backend engineering, frontend development, AI integration, and cloud deployment.</em>
   </p>
 
   <hr/>
 
   <!-- Tech Stack -->
   <h2>🛠️ Technology Stack</h2>
-  
-  <h3>Languages & Frameworks</h3>
+
   <p>
     <img
-      src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react"
-      alt="Languages and Frameworks"
+      src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react,postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode"
+      alt="Technology Stack"
     />
   </p>
 
-  <h3>Databases & Tools</h3>
-  <p>
-    <img
-      src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode"
-      alt="Databases and Tools"
-    />
-  </p>
-
-  <h3>Data Science & AI</h3>
   <p>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -117,6 +104,7 @@
   <!-- GitHub Analytics -->
   <h2>📊 GitHub Analytics</h2>
 
+  <!-- Activity graph commented out
   <p>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
@@ -124,6 +112,7 @@
       alt="Activity Graph"
     />
   </p>
+  -->
 
   <p>
     <img
@@ -143,22 +132,10 @@
 
   <hr/>
 
-  <!-- Daily Inspiration -->
-  <h2>💭 Daily Inspiration</h2>
-  <p>
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-      alt="Random Dev Quote"
-    />
-  </p>
-
-  <hr/>
-
   <!-- Contact -->
   <h2>📫 Let's Connect</h2>
   <p>
-    I'm always interested in collaborating on innovative projects, discussing technology, or exploring new opportunities.
-    Feel free to reach out!
+    Open to software engineering, AI, healthcare technology, and product-focused collaboration.
   </p>
   <p>
     <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
@@ -167,7 +144,7 @@
     <a href="https://github.com/CephasTechOrg" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:cephas@tech.org">
+    <a href="mailto:cephas.bonsuosei@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://wa.me/233551560593" target="_blank">
@@ -179,10 +156,7 @@
 
   <!-- Footer -->
   <p>
-    <sub>⭐ <em>If you find my work interesting, consider giving my repositories a star!</em> ⭐</sub>
-  </p>
-  <p>
-    <sub>© 2025 Cephas Osei-Bonsu. Building the future, one line of code at a time.</sub>
+    <sub>© 2026 Cephas Osei-Bonsu. Building reliable software for real-world impact.</sub>
   </p>
 
 </div>
