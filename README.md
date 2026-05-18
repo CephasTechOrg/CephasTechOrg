@@ -163,6 +163,7 @@
 
   <!-- GitHub Analytics -->
   <h2>📊 GitHub Analytics</h2>
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/CephasTechOrg)
 
   <!-- Activity graph commented out
   <p>
