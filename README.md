@@ -41,6 +41,7 @@
 
   <!-- About Me -->
   <h2>👨‍💻 About Me</h2>
+
   <p>
     I'm a <b>Software Engineer</b> focused on building <b>scalable, reliable, and intelligent software systems</b> across full-stack development, AI integration, backend architecture, and cloud-backed products. My work is driven by practical impact: turning real-world problems into clean, usable, and technically strong solutions, especially in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
   </p>
@@ -162,22 +163,30 @@
   <hr/>
 
   <!-- GitHub Analytics -->
-  <h2>📊 GitHub Analytics</h2>
+  <h2>📊 Stats & Analytics</h2>
 
-  <!-- Activity graph commented out
   <p>
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
-      width="95%"
-      alt="Activity Graph"
-    />
+    <a href="https://github.com/CephasTechOrg" target="_blank">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=CephasTechOrg&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF"
+        alt="GitHub Stats"
+      />
+    </a>
   </p>
-  -->
+
+  <p>
+    <a href="https://github.com/CephasTechOrg" target="_blank">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"
+        alt="Top Languages"
+      />
+    </a>
+  </p>
 
   <p>
     <a href="https://git.io/streak-stats" target="_blank">
       <img
-        src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&hide_border=true&border_radius=8&mode=daily"
+        src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117"
         alt="GitHub Streak"
       />
     </a>
