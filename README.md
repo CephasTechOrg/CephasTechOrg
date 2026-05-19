@@ -163,7 +163,6 @@
 
   <!-- GitHub Analytics -->
   <h2>📊 GitHub Analytics</h2>
- 
 
   <!-- Activity graph commented out
   <p>
@@ -176,11 +175,12 @@
   -->
 
   <p>
-    <img
-      src="https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      alt="GitHub Streak"
-      referrerpolicy="no-referrer"
-    />
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img
+        src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&hide_border=true&border_radius=8&mode=daily"
+        alt="GitHub Streak"
+      />
+    </a>
   </p>
 
   <p>
