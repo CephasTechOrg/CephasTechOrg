@@ -15,12 +15,6 @@ Business operating system for Ghanaian merchants to manage sales, inventory, cus
 **Interview Prep**  
 Technical interview preparation system for software engineering, product, cybersecurity, internships, and early-career opportunities.
 
-**LC Campus Shuttle**  
-Real-time shuttle tracking system for students using live driver GPS, route stops, ETAs, trip status, and notifications.
-
-**AI GPU Scheduling Simulator**  
-Research-focused simulator for testing dynamic GPU and resource scheduling strategies in multi-tenant machine learning clusters.
-
 ## Fun Facts
 
 - Made **2M+ code insertions** in one week
