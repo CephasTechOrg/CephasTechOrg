@@ -2,51 +2,22 @@
 
 # Cephas Osei-Bonsu
 
-**Software Engineer · AI Builder · Founder @ Vital-Go**
+Software Engineer · AI Builder · Founder
 
-Building practical software systems across AI, healthcare technology, backend infrastructure, and full-stack products.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/CephasTechOrg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:cephas.bonsuosei@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
----
+Building practical software systems across AI, healthcare, backend infrastructure, and products for real-world users.
 
 ### Currently Building
 
-**Vital-Go** — AI-powered remote patient monitoring  
-**Interview Prep** — technical interview preparation infrastructure
-
----
+**Ghana Merchant OS**  
+A business operating system for Ghanaian merchants to manage sales, inventory, customer debts, payments, receipts, and daily business operations.
 
 ### Fun Facts
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>2M+</strong><br/>
-      code insertions in one week
-    </td>
-    <td align="center">
-      <strong>100K+</strong><br/>
-      questions seeded into Interview Prep
-    </td>
-    <td align="center">
-      <strong>1,000+</strong><br/>
-      commits in 30 days
-    </td>
-  </tr>
-</table>
+- Made **2M+ code insertions** in one week
+- Seeded **100K+ interview questions** into my Interview Prep system
+- Made **1,000+ commits** in 30 days
 
-<sub>Building in public. Shipping consistently. Learning fast.</sub>
+---
 
 </div>
 
