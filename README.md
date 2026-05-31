@@ -1,20 +1,12 @@
-# Cephas Osei-Bonsu
 
 Software Engineer · AI Builder · Founder
 
 Building practical software systems across AI, healthcare, merchant tools, backend infrastructure, and real-world products.
 
 ## Currently Building
-
 **Vital-Go**  
-AI-powered remote patient monitoring platform connecting wearable health data, real-time dashboards, abnormal-reading alerts, and AI-assisted clinical insights.
-
 **Ghana Merchant OS**  
-Business operating system for Ghanaian merchants to manage sales, inventory, customer debts, payments, receipts, and daily operations.
-
 **Interview Prep**  
-Technical interview preparation system for software engineering, product, cybersecurity, internships, and early-career opportunities.
-
 ## Fun Facts
 
 - Made **2M+ code insertions** in one week
