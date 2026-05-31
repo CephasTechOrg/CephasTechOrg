@@ -3,10 +3,6 @@ Software Engineer · AI Builder · Founder
 
 Building practical software systems across AI, healthcare, merchant tools, backend infrastructure, and real-world products.
 
-## Currently Building
-**Vital-Go**  
-**Ghana Merchant OS**  
-**Interview Prep**  
 ## Fun Facts
 
 - Made **2M+ code insertions** in one week
