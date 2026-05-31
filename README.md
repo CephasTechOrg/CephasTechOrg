@@ -1,270 +1,277 @@
-<div align="center">
-
 # Cephas Osei-Bonsu
 
 Software Engineer · AI Builder · Founder
 
-Building practical software systems across AI, healthcare, backend infrastructure, and products for real-world users.
+Building practical software systems across AI, healthcare, merchant tools, backend infrastructure, and real-world products.
 
-### Currently Building
+## Currently Building
+
+**Vital-Go**  
+AI-powered remote patient monitoring platform connecting wearable health data, real-time dashboards, abnormal-reading alerts, and AI-assisted clinical insights.
 
 **Ghana Merchant OS**  
-A business operating system for Ghanaian merchants to manage sales, inventory, customer debts, payments, receipts, and daily business operations.
+Business operating system for Ghanaian merchants to manage sales, inventory, customer debts, payments, receipts, and daily operations.
 
-### Fun Facts
+**Interview Prep**  
+Technical interview preparation system for software engineering, product, cybersecurity, internships, and early-career opportunities.
+
+**LC Campus Shuttle**  
+Real-time shuttle tracking system for students using live driver GPS, route stops, ETAs, trip status, and notifications.
+
+**AI GPU Scheduling Simulator**  
+Research-focused simulator for testing dynamic GPU and resource scheduling strategies in multi-tenant machine learning clusters.
+
+## Fun Facts
 
 - Made **2M+ code insertions** in one week
-- Seeded **100K+ interview questions** into my Interview Prep system
+- Seeded **100K+ questions** into Interview Prep
 - Made **1,000+ commits** in 30 days
 
 ---
 
+<!--
+OLD README ARCHIVE
+
+This archive is intentionally hidden from the public GitHub profile.
+Do not delete it unless you are sure you no longer need the old version.
+
+Original README structure preserved below in cleaned comment-safe form.
+
+============================================================
+PROFILE HEADER
+============================================================
+
+<div align="center">
+
+Original banner image:
+<img
+  src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/ceph.png?raw=true"
+  alt="Cephas Osei-Bonsu Banner"
+  width="100%"
+/>
+
+<h1>Cephas Osei-Bonsu</h1>
+
+<p>
+  <em>Software Engineer · AI Builder · Full-Stack Developer</em>
+</p>
+
+<p>
+  Building intelligent, scalable, and reliable software systems for real-world impact.
+</p>
+
+Typing SVG:
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&pause=2500&color=00FFFF&center=true&vCenter=true&width=620&lines=Building+intelligent+and+scalable+systems;Designing+software+for+real-world+impact;Exploring+AI%2C+healthcare%2C+and+cloud+systems"
+  alt="Typing SVG"
+/>
+
+Metrics:
+<img src="https://komarev.com/ghpvc/?username=CephasTechOrg&color=00FFFF&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/CephasTechOrg?style=social" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/CephasTechOrg?style=social" alt="Stars"/>
+
+Badges:
+<img src="https://img.shields.io/badge/Full Stack Engineering-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Engineering"/>
+<img src="https://img.shields.io/badge/AI Integration-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/Healthcare Technology-0D1117?style=for-the-badge&logo=heart&logoColor=white" alt="Healthcare Technology"/>
+
+============================================================
+ABOUT ME
+============================================================
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+  I'm a <b>Software Engineer</b> focused on building <b>scalable, reliable, and intelligent software systems</b> across full-stack development, AI integration, backend architecture, and cloud-backed products. My work is driven by practical impact: turning real-world problems into clean, usable, and technically strong solutions, especially in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
+</p>
+
+============================================================
+FEATURED PROJECT
+============================================================
+
+<h2>🚀 Featured Project</h2>
+
+<h3>
+  <a href="https://github.com/CephasTechOrg/Vital-Go" style="text-decoration: none; color: #00FFFF;">
+    Vital-Go - AI-Powered Remote Patient Monitoring Platform
+  </a>
+</h3>
+
+<p>
+  <b>Vital-Go</b> is a full-stack healthcare monitoring platform that connects wearable health data, real-time dashboards, abnormal-reading alerts, and AI-assisted clinical insights into one connected system. It is designed to help patients and care teams monitor vital signs more effectively, detect concerning patterns earlier, and support more proactive, accessible, and data-driven healthcare delivery.
+</p>
+
+Original detailed feature list:
+<ul style="text-align: left; display: inline-block;">
+  <li>📊 <b>Real-time Wearable Integration:</b> Streaming patient vitals from connected wearable devices</li>
+  <li>⚕️ <b>Patient & Doctor Dashboards:</b> Clean interfaces for live health monitoring and care visibility</li>
+  <li>🚨 <b>Clinical Alerts:</b> Abnormal-reading detection to help surface urgent patient needs earlier</li>
+  <li>🤖 <b>AI-Assisted Insights:</b> Structured summaries, severity assessment, and clinical decision support</li>
+  <li>📄 <b>Medical Reports:</b> Professional health summaries for sharing with doctors or specialists</li>
+</ul>
+
+Original GitHub contribution snake animation:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+<p><b>Project Stack</b></p>
 
-<!--
+<p>
+  <code>FastAPI</code> ·
+  <code>PostgreSQL</code> ·
+  <code>Redis</code> ·
+  <code>Next.js</code> ·
+  <code>React</code> ·
+  <code>TailwindCSS</code> ·
+  <code>Docker</code> ·
+  <code>AWS</code>
+</p>
 
-ARCHIVED_OLD_README_START
+<p>
+  <b>My Role:</b> Co-Founder & Lead Software Engineer<br/>
+  <em>System architecture, backend engineering, frontend development, AI integration, database design, and deployment.</em>
+</p>
 
-The previous README content is preserved below as escaped text.
-It is intentionally hidden from the rendered GitHub profile to keep the public profile minimal.
+============================================================
+TECH STACK
+============================================================
 
-&lt;div align=&quot;center&quot;&gt;
+<h2>🛠️ Technology Stack</h2>
 
-  &lt;!&#45;&#45; Banner commented out for a cleaner profile header
-  &lt;img
-    src=&quot;https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/ceph.png?raw=true&quot;
-    alt=&quot;Cephas Osei-Bonsu Banner&quot;
-    width=&quot;100%&quot;
-  /&gt;
-  &#45;&#45;&gt;
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react"
+    alt="Languages and Frameworks"
+  />
+</p>
 
-  &lt;!&#45;&#45; Name &amp; Role &#45;&#45;&gt;
-  &lt;h1&gt;Cephas Osei-Bonsu&lt;/h1&gt;
-  &lt;p&gt;
-    &lt;em&gt;Software Engineer · AI Builder · Full-Stack Developer&lt;/em&gt;
-  &lt;/p&gt;
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode"
+    alt="Databases and Tools"
+  />
+</p>
 
-  &lt;p&gt;
-    Building intelligent, scalable, and reliable software systems for real-world impact.
-  &lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
 
-  &lt;!&#45;&#45; Typing Line &#45;&#45;&gt;
-  &lt;img
-    src=&quot;https://readme-typing-svg.demolab.com?font=Inter&amp;pause=2500&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+intelligent+and+scalable+systems;Designing+software+for+real-world+impact;Exploring+AI%2C+healthcare%2C+and+cloud+systems&quot;
-    alt=&quot;Typing SVG&quot;
-  /&gt;
+<p><b>Core Technologies</b></p>
 
-  &lt;!&#45;&#45; Metrics &#45;&#45;&gt;
-  &lt;p&gt;
-    &lt;img src=&quot;https://komarev.com/ghpvc/?username=CephasTechOrg&amp;color=00FFFF&amp;style=flat-square&quot; alt=&quot;Profile Views&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/github/followers/CephasTechOrg?style=social&quot; alt=&quot;Followers&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/github/stars/CephasTechOrg?style=social&quot; alt=&quot;Stars&quot;/&gt;
-  &lt;/p&gt;
+<p>
+  <code>Python</code> ·
+  <code>JavaScript</code> ·
+  <code>TypeScript</code> ·
+  <code>HTML</code> ·
+  <code>CSS</code>
+</p>
 
-  &lt;p&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Full&#45;&#45;Stack%20Engineering-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Full-Stack Engineering&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/AI%20Integration-0D1117?style=for-the-badge&amp;logo=openai&amp;logoColor=white&quot; alt=&quot;AI Integration&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Healthcare%20Technology-0D1117?style=for-the-badge&amp;logo=heart&amp;logoColor=white&quot; alt=&quot;Healthcare Technology&quot;/&gt;
-  &lt;/p&gt;
+<p>
+  <code>FastAPI</code> ·
+  <code>Node.js</code> ·
+  <code>Next.js</code> ·
+  <code>React</code> ·
+  <code>TailwindCSS</code>
+</p>
 
-  &lt;hr/&gt;
+<p>
+  <code>PostgreSQL</code> ·
+  <code>Redis</code> ·
+  <code>Docker</code> ·
+  <code>Nginx</code> ·
+  <code>AWS</code>
+</p>
 
-  &lt;!&#45;&#45; About Me &#45;&#45;&gt;
-  &lt;h2&gt;👨‍💻 About Me&lt;/h2&gt;
+<p>
+  <code>Git</code> ·
+  <code>GitHub Actions</code> ·
+  <code>Linux</code> ·
+  <code>VS Code</code> ·
+  <code>AI/ML</code>
+</p>
 
-  &lt;p&gt;
-    I&#x27;m a &lt;b&gt;Software Engineer&lt;/b&gt; focused on building &lt;b&gt;scalable, reliable, and intelligent software systems&lt;/b&gt; across full-stack development, AI integration, backend architecture, and cloud-backed products. My work is driven by practical impact: turning real-world problems into clean, usable, and technically strong solutions, especially in healthcare technology, automation, and systems that improve access, efficiency, and user experience.
-  &lt;/p&gt;
+============================================================
+GITHUB ANALYTICS
+============================================================
 
-  &lt;hr/&gt;
+<h2>📊 Stats & Analytics</h2>
 
-  &lt;!&#45;&#45; Featured Project &#45;&#45;&gt;
-  &lt;h2&gt;🚀 Featured Project&lt;/h2&gt;
+<p>
+  <a href="https://github.com/CephasTechOrg" target="_blank">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=CephasTechOrg&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
 
-  &lt;h3&gt;
-    &lt;a href=&quot;https://github.com/CephasTechOrg/Vital-Go&quot; style=&quot;text-decoration: none; color: #00FFFF;&quot;&gt;
-      Vital-Go - AI-Powered Remote Patient Monitoring Platform
-    &lt;/a&gt;
-  &lt;/h3&gt;
+<p>
+  <a href="https://github.com/CephasTechOrg" target="_blank">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
-  &lt;p&gt;
-    &lt;b&gt;Vital-Go&lt;/b&gt; is a full-stack healthcare monitoring platform that connects wearable health data, real-time dashboards, abnormal-reading alerts, and AI-assisted clinical insights into one connected system. It is designed to help patients and care teams monitor vital signs more effectively, detect concerning patterns earlier, and support more proactive, accessible, and data-driven healthcare delivery.
-  &lt;/p&gt;
+<p>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com/?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-  &lt;!&#45;&#45; Detailed feature list commented out to keep the profile concise
-  &lt;p&gt;&lt;b&gt;Key Features:&lt;/b&gt;&lt;/p&gt;
-  &lt;ul style=&quot;text-align: left; display: inline-block;&quot;&gt;
-    &lt;li&gt;📊 &lt;b&gt;Real-time Wearable Integration:&lt;/b&gt; Streaming patient vitals from connected wearable devices&lt;/li&gt;
-    &lt;li&gt;⚕️ &lt;b&gt;Patient &amp; Doctor Dashboards:&lt;/b&gt; Clean interfaces for live health monitoring and care visibility&lt;/li&gt;
-    &lt;li&gt;🚨 &lt;b&gt;Clinical Alerts:&lt;/b&gt; Abnormal-reading detection to help surface urgent patient needs earlier&lt;/li&gt;
-    &lt;li&gt;🤖 &lt;b&gt;AI-Assisted Insights:&lt;/b&gt; Structured summaries, severity assessment, and clinical decision support&lt;/li&gt;
-    &lt;li&gt;📄 &lt;b&gt;Medical Reports:&lt;/b&gt; Professional health summaries for sharing with doctors or specialists&lt;/li&gt;
-  &lt;/ul&gt;
-  &#45;&#45;&gt;
+<p>
+  <img
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=CephasTechOrg&theme=onedark&no-bg=true&no-frame=true&margin-w=12"
+    alt="GitHub Trophies"
+    referrerpolicy="no-referrer"
+  />
+</p>
 
-  &lt;!&#45;&#45; GitHub contribution snake animation commented out
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;picture&gt;
-      &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg&quot;&gt;
-      &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg&quot;&gt;
-      &lt;img alt=&quot;github contribution grid snake animation&quot; src=&quot;https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg&quot;&gt;
-    &lt;/picture&gt;
-  &lt;/div&gt;
-  &#45;&#45;&gt;
+============================================================
+CONTACT
+============================================================
 
-  &lt;p&gt;&lt;b&gt;Project Stack&lt;/b&gt;&lt;/p&gt;
+<h2>📫 Let's Connect</h2>
 
-  &lt;p&gt;
-    &lt;code&gt;FastAPI&lt;/code&gt; ·
-    &lt;code&gt;PostgreSQL&lt;/code&gt; ·
-    &lt;code&gt;Redis&lt;/code&gt; ·
-    &lt;code&gt;Next.js&lt;/code&gt; ·
-    &lt;code&gt;React&lt;/code&gt; ·
-    &lt;code&gt;TailwindCSS&lt;/code&gt; ·
-    &lt;code&gt;Docker&lt;/code&gt; ·
-    &lt;code&gt;AWS&lt;/code&gt;
-  &lt;/p&gt;
+<p>
+  Open to software engineering, AI, healthcare technology, backend systems, and product-focused collaboration.
+</p>
 
-  &lt;p&gt;
-    &lt;b&gt;My Role:&lt;/b&gt; Co-Founder &amp; Lead Software Engineer&lt;br/&gt;
-    &lt;em&gt;System architecture, backend engineering, frontend development, AI integration, database design, and deployment.&lt;/em&gt;
-  &lt;/p&gt;
+<p>
+  <a href="https://www.linkedin.com/in/cephas-osei-bonsu-911731326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/CephasTechOrg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:cephas.bonsuosei@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/233551560593" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-  &lt;hr/&gt;
+============================================================
+FOOTER
+============================================================
 
-  &lt;!&#45;&#45; Tech Stack &#45;&#45;&gt;
-  &lt;h2&gt;🛠️ Technology Stack&lt;/h2&gt;
+<p>
+  <sub>© 2026 Cephas Osei-Bonsu. Building reliable software for real-world impact.</sub>
+</p>
 
-  &lt;p&gt;
-    &lt;img
-      src=&quot;https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,nodejs,nextjs,react&quot;
-      alt=&quot;Languages and Frameworks&quot;
-    /&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;img
-      src=&quot;https://skillicons.dev/icons?i=postgres,redis,docker,nginx,aws,git,githubactions,linux,vscode&quot;
-      alt=&quot;Databases and Tools&quot;
-    /&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white&quot; alt=&quot;NumPy&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white&quot; alt=&quot;Pandas&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white&quot; alt=&quot;TensorFlow&quot;/&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/scikit&#45;&#45;learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white&quot; alt=&quot;scikit-learn&quot;/&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;&lt;b&gt;Core Technologies&lt;/b&gt;&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;code&gt;Python&lt;/code&gt; ·
-    &lt;code&gt;JavaScript&lt;/code&gt; ·
-    &lt;code&gt;TypeScript&lt;/code&gt; ·
-    &lt;code&gt;HTML&lt;/code&gt; ·
-    &lt;code&gt;CSS&lt;/code&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;code&gt;FastAPI&lt;/code&gt; ·
-    &lt;code&gt;Node.js&lt;/code&gt; ·
-    &lt;code&gt;Next.js&lt;/code&gt; ·
-    &lt;code&gt;React&lt;/code&gt; ·
-    &lt;code&gt;TailwindCSS&lt;/code&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;code&gt;PostgreSQL&lt;/code&gt; ·
-    &lt;code&gt;Redis&lt;/code&gt; ·
-    &lt;code&gt;Docker&lt;/code&gt; ·
-    &lt;code&gt;Nginx&lt;/code&gt; ·
-    &lt;code&gt;AWS&lt;/code&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;code&gt;Git&lt;/code&gt; ·
-    &lt;code&gt;GitHub Actions&lt;/code&gt; ·
-    &lt;code&gt;Linux&lt;/code&gt; ·
-    &lt;code&gt;VS Code&lt;/code&gt; ·
-    &lt;code&gt;AI/ML&lt;/code&gt;
-  &lt;/p&gt;
-
-  &lt;hr/&gt;
-
-  &lt;!&#45;&#45; GitHub Analytics &#45;&#45;&gt;
-  &lt;h2&gt;📊 Stats &amp; Analytics&lt;/h2&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://github.com/CephasTechOrg&quot; target=&quot;_blank&quot;&gt;
-      &lt;img
-        src=&quot;https://github-readme-stats-fast.vercel.app/api?username=CephasTechOrg&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=00FFFF&amp;icon_color=FF66C4&amp;text_color=FFFFFF&quot;
-        alt=&quot;GitHub Stats&quot;
-      /&gt;
-    &lt;/a&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://github.com/CephasTechOrg&quot; target=&quot;_blank&quot;&gt;
-      &lt;img
-        src=&quot;https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CephasTechOrg&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=00FFFF&amp;text_color=FFFFFF&quot;
-        alt=&quot;Top Languages&quot;
-      /&gt;
-    &lt;/a&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://git.io/streak-stats&quot; target=&quot;_blank&quot;&gt;
-      &lt;img
-        src=&quot;https://streak-stats.demolab.com/?user=CephasTechOrg&amp;theme=tokyonight&amp;ring=FF66C4&amp;fire=FF66C4&amp;currStreakLabel=00FFFF&amp;background=0D1117&quot;
-        alt=&quot;GitHub Streak&quot;
-      /&gt;
-    &lt;/a&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;img
-      src=&quot;https://github-profile-trophy.screw-hand.vercel.app/?username=CephasTechOrg&amp;theme=onedark&amp;no-bg=true&amp;no-frame=true&amp;margin-w=12&quot;
-      alt=&quot;GitHub Trophies&quot;
-      referrerpolicy=&quot;no-referrer&quot;
-    /&gt;
-  &lt;/p&gt;
-
-  &lt;hr/&gt;
-
-  &lt;!&#45;&#45; Contact &#45;&#45;&gt;
-  &lt;h2&gt;📫 Let&#x27;s Connect&lt;/h2&gt;
-
-  &lt;p&gt;
-    Open to software engineering, AI, healthcare technology, backend systems, and product-focused collaboration.
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://www.linkedin.com/in/cephas-osei-bonsu-911731326/&quot; target=&quot;_blank&quot;&gt;
-      &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot;/&gt;
-    &lt;/a&gt;
-    &lt;a href=&quot;https://github.com/CephasTechOrg&quot; target=&quot;_blank&quot;&gt;
-      &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot;/&gt;
-    &lt;/a&gt;
-    &lt;a href=&quot;mailto:cephas.bonsuosei@gmail.com&quot;&gt;
-      &lt;img src=&quot;https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot;/&gt;
-    &lt;/a&gt;
-    &lt;a href=&quot;https://wa.me/233551560593&quot; target=&quot;_blank&quot;&gt;
-      &lt;img src=&quot;https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white&quot; alt=&quot;WhatsApp&quot;/&gt;
-    &lt;/a&gt;
-  &lt;/p&gt;
-
-  &lt;hr/&gt;
-
-  &lt;!&#45;&#45; Footer &#45;&#45;&gt;
-  &lt;p&gt;
-    &lt;sub&gt;© 2026 Cephas Osei-Bonsu. Building reliable software for real-world impact.&lt;/sub&gt;
-  &lt;/p&gt;
-
-&lt;/div&gt;
-
-
-ARCHIVED_OLD_README_END
-
+</div>
 -->
