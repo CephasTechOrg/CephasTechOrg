@@ -5,8 +5,8 @@ Building practical software systems across AI, healthcare, merchant tools, backe
 
 ## Fun Facts
 
-- Made **2M+ code insertions** in one week
-- Seeded **100K+ questions** into Interview Prep
+- Made **5M+ code insertions** in one week
+- Seeded **150K+ questions** into Interview Prep
 - Made **1,000+ commits** in 30 days
 
 ---
