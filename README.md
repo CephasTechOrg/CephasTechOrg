@@ -1,18 +1,14 @@
-# Software Engineer · AI Builder · Founder
+## Software Engineer · AI Builder · Founder
 
 Building practical software systems across AI, healthcare, merchant tools, backend infrastructure, and real world products.
 
-## Fun Facts
+### Fun Facts
 
-1. Built a health monitoring pipeline that moves data **device → cloud → dashboard in under 2 seconds** because apparently waiting is a scalability problem.
-
+1. Built a health monitoring pipeline that moves data device → cloud → dashboard in **under 2 seconds** because apparently waiting is a scalability problem.
 2. Seeded **150K+ interview questions** into an AI interview prep system. At some point, the dataset became a personality trait.
-
 3. Shipped **1,000+ commits in 30 days**. `git log` looked mildly concerning.
-
 4. Once crossed **5M+ code insertions in a single week**. Yes, I checked the diff twice.
-
-5. I casually move between **ESP32 sensors, distributed systems, AI pipelines, backend infrastructure, and web apps**. Abstraction layers are more like suggestions.
+5. I casually move between ESP32 sensors, distributed systems, AI pipelines, backend infrastructure, and web apps. Abstraction layers are more like suggestions.
 
 
 <!--
