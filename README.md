@@ -10,7 +10,11 @@ Building practical software systems across AI, healthcare, merchant tools, backe
 4. Once crossed **5M+ code insertions in a single week**. Yes, I checked the diff twice.
 5. I casually move between ESP32 sensors, distributed systems, AI pipelines, backend infrastructure, and web apps. Abstraction layers are more like suggestions.
 
+### Projects
 
+[Vital-Go | Real-time Health Monitoring for Patients & Doctors](https://vital-go.com/)
+
+[Orra | AI Interview Coach](https://www.orrai.app/)
 <!--
 OLD README ARCHIVE
 
