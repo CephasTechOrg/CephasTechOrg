@@ -3,13 +3,17 @@ Software Engineer · AI Builder · Founder
 
 Building practical software systems across AI, healthcare, merchant tools, backend infrastructure, and real-world products.
 
-## Fun Facts
+Fun Facts
 
-- Made **5M+ code insertions** in one week
-- Seeded **150K+ questions** into Interview Prep
-- Made **1,000+ commits** in 30 days
+Built a health-monitoring pipeline that moves data device → cloud → dashboard in under 2 seconds because apparently waiting is a scalability problem
 
----
+Seeded 150K+ interview questions into an AI interview-prep system at some point, the dataset became a personality trait
+
+Shipped 1,000+ commits in 30 days git log looked mildly concerning
+
+Once crossed 5M+ code insertions in a single week yes, I checked the diff twice
+
+I casually move between ESP32 sensors, distributed systems, AI pipelines, backend infrastructure, and web apps abstraction layers are more like suggestions
 
 <!--
 OLD README ARCHIVE
